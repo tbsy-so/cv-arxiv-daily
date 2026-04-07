@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "tbsy-so"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,18 +22,59 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "InSAR & Time-series Deformation":
+        filters: 
+          - InSAR
+          - "Time-series InSAR"
+          - "MT-InSAR"
+          - "Persistent Scatterer"
+          - "Distributed Scatterer"
+          - "DS-InSAR"
+          - "phase unwrapping"
+          - "ground deformation"
+
+    "Mining Subsidence & Geohazard":
+        filters: 
+          - "mining subsidence"
+          - "coal mining deformation"
+          - "mining-induced subsidence"
+          - "surface subsidence"
+          - "geohazard monitoring"
+          - "land subsidence"
+
+    "LiDAR & UAV Remote Sensing":
+        filters: 
+          - LiDAR
+          - "UAV-LiDAR"
+          - "Airborne Laser Scanning"
+          - "UAV Photogrammetry"
+          - "low-altitude remote sensing"
+          - "point cloud registration"
+          - "point cloud co-registration"
+
+    "Multi-source Data Fusion":
+        filters: 
+          - "multi-source data fusion"
+          - "multi-sensor fusion"
+          - "spatiotemporal fusion"
+          - "data assimilation"
+          - "sensor integration"
+          - "multimodal fusion remote sensing"
+
+    "Point Cloud & 3D Processing":
+        filters: 
+          - ICP
+          - M3C2
+          - "Iterative Closest Point"
+          - "point cloud alignment"
+          - "3D change detection"
+          - "deformation extraction"
+
+    "AI & PINNs in Remote Sensing":
+        filters: 
+          - PINNs
+          - "physics-informed neural networks"
+          - "deep learning remote sensing"
+          - "spatiotemporal modeling"
+          - "time-series forecasting remote sensing"
+          - "physics-informed"
