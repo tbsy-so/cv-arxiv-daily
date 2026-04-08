@@ -23,58 +23,62 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "InSAR & Time-series Deformation":
-        filters: 
+        filters:
           - InSAR
-          - "Time-series InSAR"
+          - SAR
+          - "time series InSAR"
           - "MT-InSAR"
-          - "Persistent Scatterer"
-          - "Distributed Scatterer"
-          - "DS-InSAR"
+          - "SBAS-InSAR"
+          - "PS-InSAR"
           - "phase unwrapping"
           - "ground deformation"
+          - "surface deformation"
 
     "Mining Subsidence & Geohazard":
-        filters: 
+        filters:
           - "mining subsidence"
-          - "coal mining deformation"
-          - "mining-induced subsidence"
-          - "surface subsidence"
-          - "geohazard monitoring"
           - "land subsidence"
+          - "surface subsidence"
+          - "mining deformation"
+          - "coal mining"
+          - "geohazard"
+          - "ground subsidence"
 
     "LiDAR & UAV Remote Sensing":
-        filters: 
+        filters:
           - LiDAR
-          - "UAV-LiDAR"
-          - "Airborne Laser Scanning"
-          - "UAV Photogrammetry"
-          - "low-altitude remote sensing"
-          - "point cloud registration"
-          - "point cloud co-registration"
+          - "UAV LiDAR"
+          - "drone LiDAR"
+          - "airborne LiDAR"
+          - "UAV remote sensing"
+          - "low altitude remote sensing"
+          - photogrammetry
 
     "Multi-source Data Fusion":
-        filters: 
-          - "multi-source data fusion"
+        filters:
+          - "data fusion"
+          - "multi-source fusion"
           - "multi-sensor fusion"
           - "spatiotemporal fusion"
+          - "remote sensing fusion"
           - "data assimilation"
-          - "sensor integration"
-          - "multimodal fusion remote sensing"
 
-    "Point Cloud & 3D Processing":
-        filters: 
+    "Point Cloud Processing":
+        filters:
+          - "point cloud"
+          - registration
           - ICP
-          - M3C2
           - "Iterative Closest Point"
-          - "point cloud alignment"
           - "3D change detection"
           - "deformation extraction"
+          - M3C2
 
-    "AI & PINNs in Remote Sensing":
-        filters: 
+    "AI in Remote Sensing":
+        filters:
+          - "deep learning" 
+          - "remote sensing"
           - PINNs
-          - "physics-informed neural networks"
-          - "deep learning remote sensing"
-          - "spatiotemporal modeling"
-          - "time-series forecasting remote sensing"
           - "physics-informed"
+          - "spatiotemporal modeling"
+          - "time series forecasting"
+          - "machine learning" 
