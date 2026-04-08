@@ -8,6 +8,12 @@ import argparse
 import datetime
 import requests
 
+arxiv_client = arxiv.Client(
+    page_size=100,
+    delay_seconds=3.5, 
+    num_retries=5
+)
+
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
@@ -98,7 +104,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in arxiv_client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -355,7 +361,13 @@ def demo(**config):
                                             max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
-            print("\n")
+            
+            import time
+            import random
+            sleep_time = random.uniform(5, 10) 
+            logging.info(f"Waiting {sleep_time:.2f}s for next topic...")
+            time.sleep(sleep_time) 
+            
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file
