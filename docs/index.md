@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics**|Jiaxin Wang et.al.|[2604.08547](http://arxiv.org/abs/2604.08547)|null|
+|**2026-04-09**|**Comparative performance of three optical biosensing platforms for SARS-CoV-2 antibodies detection in human serum**|Agostino Occhicone et.al.|[2604.08225](http://arxiv.org/abs/2604.08225)|null|
+|**2026-04-09**|**OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence**|Jianhui Liu et.al.|[2604.07296](http://arxiv.org/abs/2604.07296)|null|
+|**2026-04-08**|**Estimating bottom topography in shallow water flows**|Lucas Pancotto et.al.|[2604.07075](http://arxiv.org/abs/2604.07075)|null|
+|**2026-04-08**|**SubFLOT: Submodel Extraction for Efficient and Personalized Federated Learning via Optimal Transport**|Zheng Jiang et.al.|[2604.06631](http://arxiv.org/abs/2604.06631)|null|
 |**2026-04-07**|**Multi-Modal Landslide Detection from Sentinel-1 SAR and Sentinel-2 Optical Imagery Using Multi-Encoder Vision Transformers and Ensemble Learning**|Ioannis Nasios et.al.|[2604.05959](http://arxiv.org/abs/2604.05959)|null|
 |**2026-04-07**|**Prior-guided Fusion of Multimodal Features for Change Detection from Optical-SAR Images**|Xuanguang Liu et.al.|[2604.05527](http://arxiv.org/abs/2604.05527)|null|
 |**2026-04-06**|**MERIT: Multilingual Expert-Reward Informed Tuning for Chinese-Centric Low-Resource Machine Translation**|Zhixiang Lu et.al.|[2604.04839](http://arxiv.org/abs/2604.04839)|null|
@@ -9202,6 +9207,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Fail2Drive: Benchmarking Closed-Loop Driving Generalization**|Simon Gerstenecker et.al.|[2604.08535](http://arxiv.org/abs/2604.08535)|null|
+|**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
+|**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|null|
+|**2026-04-08**|**RadarCNN: Learning-based Indoor Object Classification from IQ Imaging Radar Data**|Stefan Hägele et.al.|[2604.06842](http://arxiv.org/abs/2604.06842)|null|
+|**2026-04-08**|**RePL: Pseudo-label Refinement for Semi-supervised LiDAR Semantic Segmentation**|Donghyeon Kwon et.al.|[2604.06825](http://arxiv.org/abs/2604.06825)|null|
+|**2026-04-07**|**Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection**|Parker Ewen et.al.|[2604.06332](http://arxiv.org/abs/2604.06332)|null|
 |**2026-04-07**|**A BEV-Fusion Based Framework for Sequential Multi-Modal Beam Prediction in mmWave Systems**|Jiaming Zeng et.al.|[2604.05668](http://arxiv.org/abs/2604.05668)|null|
 |**2026-04-07**|**Learned Elevation Models as a Lightweight Alternative to LiDAR for Radio Environment Map Estimation**|Ljupcho Milosheski et.al.|[2604.05520](http://arxiv.org/abs/2604.05520)|null|
 |**2026-04-07**|**Weather-Conditioned Branch Routing for Robust LiDAR-Radar 3D Object Detection**|Hongsheng Li et.al.|[2604.05405](http://arxiv.org/abs/2604.05405)|null|
@@ -9219,6 +9230,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Dual-Loop Control in DCVerse: Advancing Reliable Deployment of AI in Data Centers via Digital Twins**|Qingang Zhang et.al.|[2604.07559](http://arxiv.org/abs/2604.07559)|null|
+|**2026-04-08**|**Multiprotocol Wireless Timer Synchronization for IoT Systems**|Ziyao Zhou et.al.|[2604.07199](http://arxiv.org/abs/2604.07199)|null|
+|**2026-04-08**|**Decentralized Scalar Field Mapping using Gaussian Process**|Hossein Papi et.al.|[2604.06554](http://arxiv.org/abs/2604.06554)|null|
+|**2026-04-07**|**The End of Human Judgment in the Kill Chain? Relocating Initiative and Interpretation with Agentic AI**|Jovana Davidovic et.al.|[2604.06300](http://arxiv.org/abs/2604.06300)|null|
 |**2026-04-04**|**Confidence-Driven Facade Refinement of 3D Building Models Using MLS Point Clouds**|Xiaoyu Huang et.al.|[2604.03797](http://arxiv.org/abs/2604.03797)|null|
 |**2026-04-04**|**CT-VoxelMap: Efficient Continuous-Time LiDAR-Inertial Odometry with Probabilistic Adaptive Voxel Mapping**|Lei Zhao et.al.|[2604.03747](http://arxiv.org/abs/2604.03747)|null|
 |**2026-03-31**|**PollutionNet: A Vision Transformer Framework for Climatological Assessment of NO $_2$ and SO$_2$ Using Satellite-Ground Data Fusion**|Prasanjit Dey et.al.|[2604.03311](http://arxiv.org/abs/2604.03311)|null|
@@ -9268,6 +9283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets**|Xiaoben Li et.al.|[2604.08548](http://arxiv.org/abs/2604.08548)|null|
+|**2026-04-09**|**ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration**|Yanwen Zou et.al.|[2604.08534](http://arxiv.org/abs/2604.08534)|null|
+|**2026-04-09**|**Revisiting Radar Perception With Spectral Point Clouds**|Hamza Alsharif et.al.|[2604.08282](http://arxiv.org/abs/2604.08282)|null|
+|**2026-04-09**|**State and Trajectory Estimation of Tensegrity Robots via Factor Graphs and Chebyshev Polynomials**|Edgar Granados et.al.|[2604.08185](http://arxiv.org/abs/2604.08185)|null|
+|**2026-04-09**|**Rotation Equivariant Convolutions in Deformable Registration of Brain MRI**|Arghavan Rezvani et.al.|[2604.08034](http://arxiv.org/abs/2604.08034)|null|
+|**2026-04-09**|**xDup: Privacy-Preserving Deduplication for Humanitarian Organizations using Fuzzy PSI**|Tim Rausch et.al.|[2604.08019](http://arxiv.org/abs/2604.08019)|null|
+|**2026-04-08**|**Quantifying the Spatiotemporal Dynamics of Engineered Cardiac Microbundles**|Hiba Kobeissi et.al.|[2604.07576](http://arxiv.org/abs/2604.07576)|null|
+|**2026-04-08**|**Stability of Supported Pd-based Ethanol Oxidation Reaction Electrocatalysts in Alkaline Media**|Tuani C. Gentil et.al.|[2604.07483](http://arxiv.org/abs/2604.07483)|null|
+|**2026-04-08**|**Are Face Embeddings Compatible Across Deep Neural Network Models?**|Fizza Rubab et.al.|[2604.07282](http://arxiv.org/abs/2604.07282)|null|
+|**2026-04-08**|**Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving**|Yatong Lan et.al.|[2604.07250](http://arxiv.org/abs/2604.07250)|null|
 |**2026-04-07**|**EfficientMonoHair: Fast Strand-Level Reconstruction from Monocular Video via Multi-View Direction Fusion**|Da Li et.al.|[2604.05794](http://arxiv.org/abs/2604.05794)|null|
 |**2026-04-07**|**GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance**|Weiqi Zhang et.al.|[2604.05721](http://arxiv.org/abs/2604.05721)|null|
 |**2026-04-07**|**CRFT: Consistent-Recurrent Feature Flow Transformer for Cross-Modal Image Registration**|Xuecong Liu et.al.|[2604.05689](http://arxiv.org/abs/2604.05689)|null|
@@ -9283,6 +9308,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding**|Mu Nan et.al.|[2604.08537](http://arxiv.org/abs/2604.08537)|null|
+|**2026-04-09**|**Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models**|Feng Luo et.al.|[2604.08527](http://arxiv.org/abs/2604.08527)|null|
+|**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|
+|**2026-04-09**|**What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal**|Stephen Cheng et.al.|[2604.08524](http://arxiv.org/abs/2604.08524)|null|
+|**2026-04-09**|**Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts**|Jiayuan Ye et.al.|[2604.08519](http://arxiv.org/abs/2604.08519)|null|
+|**2026-04-09**|**Differentially Private Language Generation and Identification in the Limit**|Anay Mehrotra et.al.|[2604.08504](http://arxiv.org/abs/2604.08504)|null|
+|**2026-04-09**|**Quantifying Explanation Consistency: The C-Score Metric for CAM-Based Explainability in Medical Image Classification**|Kabilan Elangovan et.al.|[2604.08502](http://arxiv.org/abs/2604.08502)|null|
+|**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)|null|
+|**2026-04-09**|**The Impact of Dimensionality on the Stability of Node Embeddings**|Tobias Schumacher et.al.|[2604.08492](http://arxiv.org/abs/2604.08492)|null|
+|**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
 |**2026-04-07**|**In-Place Test-Time Training**|Guhao Feng et.al.|[2604.06169](http://arxiv.org/abs/2604.06169)|null|
 |**2026-04-07**|**Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes**|Brady Koenig et.al.|[2604.06167](http://arxiv.org/abs/2604.06167)|null|
 |**2026-04-07**|**HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models**|Reihaneh Zohrabi et.al.|[2604.06165](http://arxiv.org/abs/2604.06165)|null|
