@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Omnidirectional Transponder for Narrow-band Radar Calibration**|Oren Cohen et.al.|[2605.07205](http://arxiv.org/abs/2605.07205)|null|
+|**2026-05-07**|**Better Protein Function Prediction by Modeling Survivorship Bias**|Zhongmou Chao et.al.|[2605.06879](http://arxiv.org/abs/2605.06879)|null|
+|**2026-05-07**|**Numerical Modeling of Flow and Air Entrainment in Hydraulic Jumps for a Wide Range of Froude Numbers**|L. D'Angelo et.al.|[2605.05585](http://arxiv.org/abs/2605.05585)|null|
+|**2026-05-06**|**Morphology-Guided Cross-Task Coupling for Joint Building Height and Footprint Estimation**|Jinzhen Han et.al.|[2605.04731](http://arxiv.org/abs/2605.04731)|null|
+|**2026-05-05**|**Densification and forecasting of Sentinel-2 time series from multimodal SAR and Optical satellite data using deep generative models**|Véronique Defonte et.al.|[2605.04239](http://arxiv.org/abs/2605.04239)|null|
 |**2026-05-04**|**Sentinel2Cap: A Human-Annotated Benchmark Dataset for Multimodal Remote Sensing Image Captioning**|Lucrezia Tosato et.al.|[2605.03189](http://arxiv.org/abs/2605.03189)|null|
 |**2026-05-04**|**RAFNet: Region-Aware Fusion Network for Pansharpening**|Jianing Zhang et.al.|[2605.02184](http://arxiv.org/abs/2605.02184)|null|
 |**2026-05-04**|**Cross-Polarization Fusion of VV AND VH SAR Observations for Improved Flood Mapping**|Jagrati Talreja et.al.|[2605.02153](http://arxiv.org/abs/2605.02153)|null|
@@ -9194,6 +9199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Position: the Stochastic Parrot in the Coal Mine. Model Collapse is a Threat to Low-Resource Communities**|Devon Jarvis et.al.|[2605.04127](http://arxiv.org/abs/2605.04127)|null|
 |**2026-04-28**|**Knowledge-Data Dually Driven Paradigm for Accurate Landslide Susceptibility Prediction under Data-Scarce Conditions Using Geomorphic Priors and Tabular Foundation Model**|Yuting Yang et.al.|[2604.25196](http://arxiv.org/abs/2604.25196)|null|
 |**2026-04-16**|**WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms**|Yucheng Pan et.al.|[2604.14540](http://arxiv.org/abs/2604.14540)|null|
 |**2026-04-07**|**Multi-Modal Landslide Detection from Sentinel-1 SAR and Sentinel-2 Optical Imagery Using Multi-Encoder Vision Transformers and Ensemble Learning**|Ioannis Nasios et.al.|[2604.05959](http://arxiv.org/abs/2604.05959)|null|
@@ -9219,6 +9225,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Tracking Large-scale Shared Bikes with Inertial Motion Learning in GNSS Blocked Environments**|Feng Liu et.al.|[2605.07412](http://arxiv.org/abs/2605.07412)|null|
+|**2026-05-08**|**MORPH-U: Multi-Objective Resilient Motion Planning for V2X-Enabled Autonomous Driving in High-Uncertainty Environments via Simulation**|Shih-Yu Lai et.al.|[2605.07370](http://arxiv.org/abs/2605.07370)|null|
+|**2026-05-08**|**Weather-Robust Scene Semantics with Vision-Aligned 4D Radar**|Kali Hamilton et.al.|[2605.07367](http://arxiv.org/abs/2605.07367)|null|
+|**2026-05-08**|**UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition**|Shuai Zhang et.al.|[2605.07356](http://arxiv.org/abs/2605.07356)|null|
+|**2026-05-08**|**GEM: Generating LiDAR World Model via Deformable Mamba**|Yang Wu et.al.|[2605.07326](http://arxiv.org/abs/2605.07326)|null|
+|**2026-05-08**|**Palm-sized Omnidirectional Vision-Based UAV Exploration with Sparse Topological Map Guidance**|Zirui Wang et.al.|[2605.07275](http://arxiv.org/abs/2605.07275)|null|
+|**2026-05-07**|**Dr-BA: Separable Optimization for Direct Radar Bundle Adjustment & Localization**|Daniil Lisus et.al.|[2605.07041](http://arxiv.org/abs/2605.07041)|null|
+|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478](http://arxiv.org/abs/2605.06478)|null|
+|**2026-05-07**|**Generating Roadside LiDAR Datasets from Vehicle-Side Datasets via Novel View Synthesis**|Yuhan Xia et.al.|[2605.05897](http://arxiv.org/abs/2605.05897)|null|
+|**2026-05-06**|**Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift**|Till Beemelmanns et.al.|[2605.05328](http://arxiv.org/abs/2605.05328)|null|
 |**2026-05-04**|**Enwar 3.0: An Agentic Multi-Modal LLM Orchestrator for Situation-Aware Beamforming, Blockage Prediction, and Handover Management**|Ahmad M. Nazar et.al.|[2605.03215](http://arxiv.org/abs/2605.03215)|null|
 |**2026-05-04**|**LiDAR Teach, Radar Repeat: Robust Cross-Modal Navigation in Degenerate and Varying Environments**|Renxiang Xiao et.al.|[2605.02809](http://arxiv.org/abs/2605.02809)|null|
 |**2026-05-04**|**Beyond Specialization: Robust Reinforcement Learning Navigation via Procedural Map Generators**|Christian Jestel et.al.|[2605.02528](http://arxiv.org/abs/2605.02528)|null|
@@ -9252,6 +9268,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation**|Haonan Wang et.al.|[2605.07390](http://arxiv.org/abs/2605.07390)|null|
+|**2026-05-07**|**Online Bayesian Calibration under Gradual and Abrupt System Changes**|Yang Xu et.al.|[2605.06612](http://arxiv.org/abs/2605.06612)|null|
+|**2026-05-07**|**Earth-o1: A Grid-free Observation-native Atmospheric World Model**|Junchao Gong et.al.|[2605.06337](http://arxiv.org/abs/2605.06337)|null|
+|**2026-05-07**|**An Extensible and Verifiable Language for Query Rewrite Rules**|Sicheng Pan et.al.|[2605.05536](http://arxiv.org/abs/2605.05536)|null|
+|**2026-05-06**|**Phase-Time Array Enabled Multistatic Sensing with Multi-Level Fusion for UAV Localization**|Ming Gao et.al.|[2605.04919](http://arxiv.org/abs/2605.04919)|null|
+|**2026-05-06**|**From Classical to Quantum-Mechanical Data Assimilation: A Comparison between DATO and QMDA**|Emanuele Donno et.al.|[2605.04881](http://arxiv.org/abs/2605.04881)|null|
+|**2026-05-05**|**LUCAS-MEGA: A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems**|Kuangdai Leng et.al.|[2605.04323](http://arxiv.org/abs/2605.04323)|null|
 |**2026-05-05**|**A new framework for non-stationary spatio-temporal data fusion of multi-fidelity models**|Pietro Colombo et.al.|[2605.03693](http://arxiv.org/abs/2605.03693)|null|
 |**2026-05-04**|**Triple Spectral Fusion for Sensor-based Human Activity Recognition**|Ye Zhang et.al.|[2605.02743](http://arxiv.org/abs/2605.02743)|null|
 |**2026-05-04**|**Online Generalised Predictive Coding**|Mehran H. Z. Bazargani et.al.|[2605.02675](http://arxiv.org/abs/2605.02675)|null|
@@ -9315,6 +9338,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607](http://arxiv.org/abs/2605.07607)|null|
+|**2026-05-08**|**Mathematical Reasoning via Intervention-Based Time-Series Causal Discovery Using LLMs as Concept Mastery Simulators**|Tsuyoshi Okita et.al.|[2605.07600](http://arxiv.org/abs/2605.07600)|null|
+|**2026-05-08**|**Beyond Defenses: Manifold-Aligned Regularization for Intrinsic 3D Point Cloud Robustness**|Pedro Alonso et.al.|[2605.07590](http://arxiv.org/abs/2605.07590)|null|
+|**2026-05-08**|**HBEE: Human Behavioral Entropy Engine -- Pre-Registered Multi-Agent LLM Simulation of Peer-Suspicion-Based Detection Inversion**|Vickson Ferrel et.al.|[2605.07472](http://arxiv.org/abs/2605.07472)|null|
+|**2026-05-08**|**LoBoFit: Flexible Garment Refitting via Local Bone Mapping Blending**|Meng Zhang et.al.|[2605.07450](http://arxiv.org/abs/2605.07450)|null|
+|**2026-05-08**|**UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition**|Shuai Zhang et.al.|[2605.07356](http://arxiv.org/abs/2605.07356)|null|
+|**2026-05-08**|**GEM: Generating LiDAR World Model via Deformable Mamba**|Yang Wu et.al.|[2605.07326](http://arxiv.org/abs/2605.07326)|null|
+|**2026-05-08**|**Palm-sized Omnidirectional Vision-Based UAV Exploration with Sparse Topological Map Guidance**|Zirui Wang et.al.|[2605.07275](http://arxiv.org/abs/2605.07275)|null|
+|**2026-05-08**|**High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images**|Nandhana Sunil et.al.|[2605.07254](http://arxiv.org/abs/2605.07254)|null|
+|**2026-05-08**|**Topology-Enhanced Alignment for Large Language Models: Trajectory Topology Loss and Topological Preference Optimization**|Yurui Pan et.al.|[2605.07172](http://arxiv.org/abs/2605.07172)|null|
 |**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
 |**2026-05-05**|**deSEO: Physics-Aware Dataset Creation for High-Resolution Satellite Image Shadow Removal**|Lorenzo Beltrame et.al.|[2605.03610](http://arxiv.org/abs/2605.03610)|null|
 |**2026-05-05**|**Mantis: Mamba-native Tuning is Efficient for 3D Point Cloud Foundation Models**|Zihao Guo et.al.|[2605.03438](http://arxiv.org/abs/2605.03438)|null|
@@ -9350,6 +9383,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Selectivity- and Activity-Aware Catalyst Descriptors for CO $_2$ Hydrogenation on Alloy Nanocatalysts using Machine-Learned Force Fields**|Prajwal Pisal et.al.|[2605.07714](http://arxiv.org/abs/2605.07714)|null|
+|**2026-05-08**|**Bayesian Fine-tuning in Projected Subspaces**|Viktar Dubovik et.al.|[2605.07706](http://arxiv.org/abs/2605.07706)|null|
+|**2026-05-08**|**Future Validity is the Missing Statistic: From Impossibility to $Φ$ -Estimation for Grammar-Faithful Speculative Decoding**|Wenhua Nie et.al.|[2605.07698](http://arxiv.org/abs/2605.07698)|null|
+|**2026-05-08**|**Toward Better Geometric Representations for Molecule Generative Models**|Shaoheng Yan et.al.|[2605.07693](http://arxiv.org/abs/2605.07693)|null|
+|**2026-05-08**|**Fortifying Time Series: DTW-Certified Robust Anomaly Detection**|Shijie Liu et.al.|[2605.07690](http://arxiv.org/abs/2605.07690)|null|
+|**2026-05-08**|**Gradient Starvation in Binary-Reward GRPO: Why Group-Mean Centering Fails and Why the Simplest Fix Works**|Wenhua Nie et.al.|[2605.07689](http://arxiv.org/abs/2605.07689)|null|
+|**2026-05-08**|**PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN**|Yixiong Jing et.al.|[2605.07687](http://arxiv.org/abs/2605.07687)|null|
+|**2026-05-08**|**The Coupling Tax: How Shared Token Budgets Undermine Visible Chain-of-Thought Under Fixed Output Limits**|Wenhua Nie et.al.|[2605.07686](http://arxiv.org/abs/2605.07686)|null|
+|**2026-05-08**|**Advance warning of $γ$ -ray blazar flares from \textit{Fermi}-LAT light curves: a strictly causal machine-learning backtest**|Zahir Shah et.al.|[2605.07680](http://arxiv.org/abs/2605.07680)|null|
+|**2026-05-08**|**Structured Coupling for Flow Matching**|Xavier Sumba et.al.|[2605.07676](http://arxiv.org/abs/2605.07676)|null|
 |**2026-05-05**|**Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning**|Zakarya Elmimouni et.al.|[2605.03968](http://arxiv.org/abs/2605.03968)|null|
 |**2026-05-05**|**Pretrained Model Representations as Acquisition Signals for Active Learning of MLIPs**|Eszter Varga-Umbrich et.al.|[2605.03964](http://arxiv.org/abs/2605.03964)|null|
 |**2026-05-05**|**Fisher-Informational Time: A Causal-Geometric Framework for Emergent Clock Time Physical Distinguishability**|J. Sumaya-Martinez et.al.|[2605.03958](http://arxiv.org/abs/2605.03958)|null|
