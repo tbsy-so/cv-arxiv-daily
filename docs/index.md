@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**mRNAutilus: Multi-Objective-Guided Discrete Generation of mRNA with Optimized Therapeutic Properties**|Sawan Patel et.al.|[2605.31296](http://arxiv.org/abs/2605.31296)|null|
+|**2026-05-29**|**Hydrogel microwells with light-controlled reversible closure**|Qifei Ma et.al.|[2605.31230](http://arxiv.org/abs/2605.31230)|null|
+|**2026-05-29**|**HADT: A Heterogeneous Multi-Agent Differential Transformer for Autonomous Earth Observation Satellite Cluster**|Mohamad A. Hady et.al.|[2605.31023](http://arxiv.org/abs/2605.31023)|null|
+|**2026-05-28**|**On the Connection Between Differential Population Growth Rate and Epidemic Reproduction Numbers**|Hong Qin et.al.|[2605.30382](http://arxiv.org/abs/2605.30382)|null|
+|**2026-05-27**|**Lightweight SAR Ship Detection via Contrastive Distillation**|Surendar Devasundaram et.al.|[2605.30380](http://arxiv.org/abs/2605.30380)|null|
 |**2026-05-27**|**A Deep Learning Iterative Framework for Sentinel-1 Stripmap Enhancement Based on Azimuth Doppler Decomposition**|Juan Francisco Amieva et.al.|[2605.29088](http://arxiv.org/abs/2605.29088)|null|
 |**2026-05-27**|**Range, Not Precision: Block-Floating-Point Half-Precision FFT and SAR Imaging on Apple Silicon**|Mohamed Amine Bergach et.al.|[2605.28451](http://arxiv.org/abs/2605.28451)|null|
 |**2026-05-27**|**A Unified Maximum-Likelihood Framework for 3D InISAR Phase Unwrapping with Outlier Rejection**|Matteo Pardi et.al.|[2605.28431](http://arxiv.org/abs/2605.28431)|null|
@@ -9246,6 +9251,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Joint Multi-Camera LiDAR Extrinsic Calibration via Learned Pairwise Initialization and Geometric Refinement**|Aziz Al-Najjar et.al.|[2605.31576](http://arxiv.org/abs/2605.31576)|null|
+|**2026-05-29**|**nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**|Zhiyu Huang et.al.|[2605.31572](http://arxiv.org/abs/2605.31572)|null|
+|**2026-05-29**|**Vanilla ViT for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2605.31177](http://arxiv.org/abs/2605.31177)|null|
+|**2026-05-29**|**Can BEV Perception Gracefully Degrade under Sensor Failures?**|Haifa Zhang et.al.|[2605.30983](http://arxiv.org/abs/2605.30983)|null|
+|**2026-05-29**|**Text-guided Feature Disentanglement for Cross-modal Gait Recognition**|Zhiyang Lu et.al.|[2605.30784](http://arxiv.org/abs/2605.30784)|null|
 |**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111](http://arxiv.org/abs/2605.30111)|null|
 |**2026-05-27**|**GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals**|Jiachen Lu et.al.|[2605.29097](http://arxiv.org/abs/2605.29097)|null|
 |**2026-05-27**|**Superradiant LIDAR**|T. Kullick et.al.|[2605.28378](http://arxiv.org/abs/2605.28378)|null|
@@ -9399,6 +9409,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching**|Tuan Duc Ngo et.al.|[2605.31466](http://arxiv.org/abs/2605.31466)|null|
+|**2026-05-29**|**Topologically Consistent Multi-view 3D Head Reconstruction via Coarse-Guided Layered Surface Sampling**|Timo Bolkart et.al.|[2605.31283](http://arxiv.org/abs/2605.31283)|null|
+|**2026-05-29**|**Vanilla ViT for Automotive Point Cloud Semantic Segmentation**|Gilles Puy et.al.|[2605.31177](http://arxiv.org/abs/2605.31177)|null|
+|**2026-05-29**|**QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer**|Zhizhen Pan et.al.|[2605.31124](http://arxiv.org/abs/2605.31124)|null|
+|**2026-05-29**|**Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks**|Gyeonghoon Ko et.al.|[2605.31106](http://arxiv.org/abs/2605.31106)|null|
+|**2026-05-29**|**Reading Between the Citations: A Typed Claim Network for Scientific Literature**|Ning Ding et.al.|[2605.30966](http://arxiv.org/abs/2605.30966)|null|
+|**2026-05-29**|**Where's Waldo Library? Using Reverse IP Geolocation to Identify Library IPs**|Nishant Acharya et.al.|[2605.30791](http://arxiv.org/abs/2605.30791)|null|
+|**2026-05-29**|**Text-guided Feature Disentanglement for Cross-modal Gait Recognition**|Zhiyang Lu et.al.|[2605.30784](http://arxiv.org/abs/2605.30784)|null|
+|**2026-05-28**|**From Waves to Graphs: A Ray-Tracing-Inspired Neural Radio Propagation Model**|Paul Almasan et.al.|[2605.30525](http://arxiv.org/abs/2605.30525)|null|
 |**2026-05-28**|**City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images**|Sayan Paul et.al.|[2605.30310](http://arxiv.org/abs/2605.30310)|null|
 |**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111](http://arxiv.org/abs/2605.30111)|null|
 |**2026-05-28**|**CRB-Guided Framework Design and Resource Allocation for Indoor mmWave ISCC Systems**|Zhonghao Liu et.al.|[2605.29939](http://arxiv.org/abs/2605.29939)|null|
@@ -9464,6 +9483,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Gravitational Waves from hybrid defects as probe of Flavor symmetry breaking: Machine-Learning Approach**|Anish Ghoshal et.al.|[2605.31600](http://arxiv.org/abs/2605.31600)|null|
+|**2026-05-29**|**KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems**|Alireza Kheirandish et.al.|[2605.31596](http://arxiv.org/abs/2605.31596)|null|
+|**2026-05-29**|**A Tight Theory of Error Feedback Algorithms in Distributed Optimization**|Daniel Berg Thomsen et.al.|[2605.31594](http://arxiv.org/abs/2605.31594)|null|
+|**2026-05-29**|**LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards**|Nianyi Lin et.al.|[2605.31584](http://arxiv.org/abs/2605.31584)|null|
+|**2026-05-29**|**Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings**|Utsav Dutta et.al.|[2605.31580](http://arxiv.org/abs/2605.31580)|null|
+|**2026-05-29**|**Effective Biological Representation Learning by Masking Gene Expression**|Kian Kenyon-Dean et.al.|[2605.31562](http://arxiv.org/abs/2605.31562)|null|
+|**2026-05-29**|**Functional Attention: From Pairwise Affinities to Functional Correspondences**|Jiefang Xiao et.al.|[2605.31559](http://arxiv.org/abs/2605.31559)|null|
+|**2026-05-29**|**Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization**|Felipe Urrutia et.al.|[2605.31558](http://arxiv.org/abs/2605.31558)|null|
+|**2026-05-29**|**The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling**|Andre Herz et.al.|[2605.31547](http://arxiv.org/abs/2605.31547)|null|
+|**2026-05-29**|**Automated Prediction of Postoperative Pancreatic Fistula Using Preoperative Computed Tomography**|Ashok Choudhary et.al.|[2605.31539](http://arxiv.org/abs/2605.31539)|null|
 |**2026-05-28**|**DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation**|Jusuk Lee et.al.|[2605.30350](http://arxiv.org/abs/2605.30350)|null|
 |**2026-05-28**|**LLMSurgeon: Diagnosing Data Mixture of Large Language Models**|Yaxin Luo et.al.|[2605.30348](http://arxiv.org/abs/2605.30348)|null|
 |**2026-05-28**|**SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations**|Qinpei Luo et.al.|[2605.30345](http://arxiv.org/abs/2605.30345)|null|
