@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**WaveDINO: Learning-Based Atmospheric Correction of Unwrapped InSAR Interferograms Validated by GNSS: Results at Laguna del Maule and Campi Flegrei Volcanoes**|Robert Popescu et.al.|[2606.16795](http://arxiv.org/abs/2606.16795)|null|
+|**2026-06-15**|**Explainable Flood Segmentation on Sentinel-1 SAR Imagery: A Comparative Study of CNN and Transformer Architectures**|Arundhuti Banerjee et.al.|[2606.16302](http://arxiv.org/abs/2606.16302)|null|
+|**2026-06-14**|**VEPHand: View-Efficient Photometric Hand Performance Capture at Scale**|Zhengyang Shen et.al.|[2606.15966](http://arxiv.org/abs/2606.15966)|null|
+|**2026-06-14**|**SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills**|Ismail Hossain et.al.|[2606.15899](http://arxiv.org/abs/2606.15899)|null|
+|**2026-06-13**|**A Koopman-PINN Framework for Epidemic Models: Parameter Inference and Forecasting**|Achraf Zinihi et.al.|[2606.15201](http://arxiv.org/abs/2606.15201)|null|
+|**2026-06-12**|**Moving Target SAR Imaging Using Planar Arrays And Multidimensional Chinese Remainder Theorem (MD-CRT)--Part II: Two Subarray Designs**|Guangpu Guo et.al.|[2606.14911](http://arxiv.org/abs/2606.14911)|null|
+|**2026-06-12**|**Moving Target SAR Imaging Using Planar Arrays And Multidimensional Chinese Remainder Theorem (MD-CRT)--Part I: A General Framework**|Guangpu Guo et.al.|[2606.14910](http://arxiv.org/abs/2606.14910)|null|
+|**2026-06-12**|**What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI**|Anna-Maria Velentza et.al.|[2606.14602](http://arxiv.org/abs/2606.14602)|null|
+|**2026-06-12**|**HARBOR: Heading Analysis and Reconstruction from Behavioral Observation and Radar**|Joao P. A. Dantas et.al.|[2606.14006](http://arxiv.org/abs/2606.14006)|null|
+|**2026-06-11**|**Mitigating SAR-ADC Non-Idealities in Massive MU-MIMO Systems via Affine Models**|Jérémy Guichemerre et.al.|[2606.13417](http://arxiv.org/abs/2606.13417)|null|
 |**2026-06-09**|**Earth-OneVision: Extending Remote Sensing Multimodal Large Language Models to More Sensor Modalities and Tasks**|Miaoxin Cai et.al.|[2606.10819](http://arxiv.org/abs/2606.10819)|null|
 |**2026-06-09**|**ParaBridge: Bridging Paralinguistic Perception and Dialogue Behavior in Speech Language Models**|Yuxiang Wang et.al.|[2606.10581](http://arxiv.org/abs/2606.10581)|null|
 |**2026-06-10**|**IB-HFN: Information Bottleneck-Driven SAR-Optical Fusion Network for High-Fidelity Cloud Removal**|Haojun Guo et.al.|[2606.09347](http://arxiv.org/abs/2606.09347)|null|
@@ -9264,6 +9274,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|null|
+|**2026-06-15**|**Automated Digital Twin Construction for Highway Scenarios Using LiDAR Point Clouds and OpenStreetMap**|Yongqi Zhao et.al.|[2606.16570](http://arxiv.org/abs/2606.16570)|null|
+|**2026-06-15**|**Uncertainty Quality of VGGT: An Analysis on the DTU Benchmark Dataset**|Markus Hillemann et.al.|[2606.16479](http://arxiv.org/abs/2606.16479)|null|
+|**2026-06-15**|**GraphBEV++: Multi-Modal Feature Alignment for Autonomous Driving**|Ziying Song et.al.|[2606.16354](http://arxiv.org/abs/2606.16354)|null|
+|**2026-06-14**|**PointDiffusion: Diffusion-Based Scene Completion in the Point Cloud Domain**|Chidera Agbasiere et.al.|[2606.16048](http://arxiv.org/abs/2606.16048)|null|
+|**2026-06-14**|**LoComposition: Terrain-Adaptive Energy-Efficient Quadruped Locomotion without Gait Priors**|Loukas Kordos et.al.|[2606.15896](http://arxiv.org/abs/2606.15896)|null|
+|**2026-06-14**|**Shigatse Astronomical Site Testing. I. Cloud-cover Climatology and Selected Local Meteorological Conditions**|Baiyu Zhang et.al.|[2606.15839](http://arxiv.org/abs/2606.15839)|null|
+|**2026-06-13**|**A Corridor-Scale CARLA-VISSIM Co-Simulation Framework for Multi-Intersection Urban Traffic**|Sima Ashayer et.al.|[2606.15431](http://arxiv.org/abs/2606.15431)|null|
+|**2026-06-13**|**G2IA: Geometry-Guided Instance-Aware Retrieval and Refinement for Cross-Modal Place Recognition**|Xianyun Jiao et.al.|[2606.15287](http://arxiv.org/abs/2606.15287)|null|
+|**2026-06-13**|**Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation**|Kyle Gao et.al.|[2606.15077](http://arxiv.org/abs/2606.15077)|null|
 |**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396](http://arxiv.org/abs/2606.12396)|null|
 |**2026-06-10**|**KinematicRL: A Sim-to-Real Reinforcement Learning Framework For Social Navigation With Kinodynamic Feasibility**|Zhiming Xu et.al.|[2606.12042](http://arxiv.org/abs/2606.12042)|null|
 |**2026-06-10**|**From Nominal Intensity to Equivalent Rainfall: A Path-Based Credibility Evaluation Framework for Simulated Rainfall in Autonomous-Driving Perception Tests**|Tian Xia et.al.|[2606.11989](http://arxiv.org/abs/2606.11989)|null|
@@ -9342,6 +9362,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation**|Jan-Niklas Klein et.al.|[2606.16935](http://arxiv.org/abs/2606.16935)|null|
+|**2026-06-15**|**Graphical conditional generative modeling for digital twin modeling**|Zongren Zou et.al.|[2606.16219](http://arxiv.org/abs/2606.16219)|null|
+|**2026-06-15**|**Random-Feature Kalman Filtering for Linear PDE Data Assimilation**|Xi'an Li et.al.|[2606.16086](http://arxiv.org/abs/2606.16086)|null|
+|**2026-06-12**|**Multi-Modal Attention for Automated Disaster Damage Assessment Using Remote Sensing Imagery and Deep Learning**|Tewodros Syum Gebre et.al.|[2606.14963](http://arxiv.org/abs/2606.14963)|null|
+|**2026-06-12**|**GRASP: Gradient-Aligned Sequential Parameter Transfer for Memory-Efficient Multi-Source Learning**|Mary Isabelle Wisell et.al.|[2606.14900](http://arxiv.org/abs/2606.14900)|null|
+|**2026-06-12**|**On the Feasibility of Passive Bistatic ISAC Based on Unmodified LoRa**|Laurenz Taffner et.al.|[2606.14293](http://arxiv.org/abs/2606.14293)|null|
+|**2026-06-11**|**Limits of constant-parameter constitutive models for hydrogels under inertial cavitation**|Tianyi Chu et.al.|[2606.13584](http://arxiv.org/abs/2606.13584)|null|
+|**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](http://arxiv.org/abs/2606.13509)|null|
+|**2026-06-10**|**Feature-preserving Latent-EnKF for Data Assimilation of Flows with Shocks**|Hemanth Chandravamsi et.al.|[2606.12559](http://arxiv.org/abs/2606.12559)|null|
 |**2026-06-10**|**Neural-Parameterized Cellular Automata for Wildfire Spread**|Maksym Zhenirovskyy et.al.|[2606.11676](http://arxiv.org/abs/2606.11676)|null|
 |**2026-06-09**|**Data assimilation for subsurface flow using latent diffusion model parameterization: performance of ensemble-Kalman and Monte Carlo techniques**|Guido Di Federico et.al.|[2606.11140](http://arxiv.org/abs/2606.11140)|null|
 |**2026-06-09**|**Bounding the Null Space: Interval-Based Uncertainty Quantification for Non-Identifiable Groundwater Models**|Maximilian Ramgraber et.al.|[2606.10836](http://arxiv.org/abs/2606.10836)|null|
@@ -9442,6 +9471,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|null|
+|**2026-06-15**|**Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport**|Jin Zhang et.al.|[2606.16672](http://arxiv.org/abs/2606.16672)|null|
+|**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638](http://arxiv.org/abs/2606.16638)|null|
+|**2026-06-15**|**MR-GVNO: A Geometry-Aware Variational Physics-Informed Neural Operator for Mindlin-Reissner Plates on Irregular Domains**|Siqi Wang et.al.|[2606.16624](http://arxiv.org/abs/2606.16624)|null|
+|**2026-06-15**|**Rotational Symmetry based Object Pose Estimation from Point Clouds in the Absence of Known 3D Models**|Weichen Dai et.al.|[2606.16593](http://arxiv.org/abs/2606.16593)|null|
+|**2026-06-15**|**Transformation-driven generation of comparable projection images from multimodal anatomical scenes**|Dariusz Pojda et.al.|[2606.16573](http://arxiv.org/abs/2606.16573)|null|
+|**2026-06-15**|**Automated Digital Twin Construction for Highway Scenarios Using LiDAR Point Clouds and OpenStreetMap**|Yongqi Zhao et.al.|[2606.16570](http://arxiv.org/abs/2606.16570)|null|
+|**2026-06-15**|**PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models**|Zhiang Chen et.al.|[2606.16569](http://arxiv.org/abs/2606.16569)|null|
+|**2026-06-15**|**Filtered ANN as a Phase Transition: When Selectivity-Estimation Error Causes Plan Regret**|Madhulatha Mandarapu et.al.|[2606.16341](http://arxiv.org/abs/2606.16341)|null|
+|**2026-06-15**|**Fi-Gaussian: Frequency-Aware Implicit Gaussian Splatting for Single Image Dehazing**|Yuhan Chen et.al.|[2606.16168](http://arxiv.org/abs/2606.16168)|null|
 |**2026-06-10**|**Fourier Features Let Agents Learn High Precision Policies with Imitation Learning**|Balázs Gyenes et.al.|[2606.12334](http://arxiv.org/abs/2606.12334)|null|
 |**2026-06-10**|**DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds**|Weirong Chen et.al.|[2606.12189](http://arxiv.org/abs/2606.12189)|null|
 |**2026-06-10**|**nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding**|Boyang Li et.al.|[2606.12146](http://arxiv.org/abs/2606.12146)|null|
@@ -9526,6 +9565,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
+|**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
+|**2026-06-15**|**A nonparametric two-sample test using a parametric integral probability metric**|Yuha Park et.al.|[2606.16941](http://arxiv.org/abs/2606.16941)|null|
+|**2026-06-15**|**Scalable Circuit Learning for Interpreting Large Language Models**|Naiyu Yin et.al.|[2606.16939](http://arxiv.org/abs/2606.16939)|null|
+|**2026-06-15**|**CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation**|Jan-Niklas Klein et.al.|[2606.16935](http://arxiv.org/abs/2606.16935)|null|
+|**2026-06-15**|**Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter**|Patomporn Payoungkhamdee et.al.|[2606.16934](http://arxiv.org/abs/2606.16934)|null|
+|**2026-06-15**|**A Unified Causal-Origin Taxonomy of Distributional Shifts in Reinforcement Learning**|Ardianto Wibowo et.al.|[2606.16933](http://arxiv.org/abs/2606.16933)|null|
+|**2026-06-15**|**Functional Gradient Descent with Adaptive Representations**|Daniel Csillag et.al.|[2606.16926](http://arxiv.org/abs/2606.16926)|null|
+|**2026-06-15**|**MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance**|Arunkumar V et.al.|[2606.16923](http://arxiv.org/abs/2606.16923)|null|
+|**2026-06-15**|**Graph Neural Networks Trained on Null Signal for Angle Reconstruction in X-ray Polarimetry**|Vittorio Latorre et.al.|[2606.16922](http://arxiv.org/abs/2606.16922)|null|
 |**2026-06-10**|**Context-Driven Incremental Compression for Multi-Turn Dialogue Generation**|Yeongseo Jung et.al.|[2606.12411](http://arxiv.org/abs/2606.12411)|null|
 |**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan et.al.|[2606.12409](http://arxiv.org/abs/2606.12409)|null|
 |**2026-06-10**|**FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning**|Steven Oh et.al.|[2606.12406](http://arxiv.org/abs/2606.12406)|null|
