@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm**|Solène Debuysère et.al.|[2606.20523](http://arxiv.org/abs/2606.20523)|null|
+|**2026-06-17**|**LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation**|Elahe Oveisi et.al.|[2606.19514](http://arxiv.org/abs/2606.19514)|null|
+|**2026-06-17**|**ROSA-TFormer: A Radar-Optical Sensor-Aware Temporal Transformer for Pinus sylvestris Plantation Classification in Northern Shaanxi Using GEE-Derived Sentinel-1/2 Time Series**|Nengbo Zhang et.al.|[2606.19204](http://arxiv.org/abs/2606.19204)|null|
+|**2026-06-17**|**Spaceborne SAR Change Detection and Coherence Analysis for Maritime Port Monitoring**|Necati Kagan Erkek et.al.|[2606.18917](http://arxiv.org/abs/2606.18917)|null|
+|**2026-06-16**|**Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging**|Chenrui Wu et.al.|[2606.18521](http://arxiv.org/abs/2606.18521)|null|
+|**2026-06-16**|**High-Order Simulation of Particle-Laden Flows in Moving Domains Using Coupled ALE and Sliding Mesh Approaches**|Anna Schwarz et.al.|[2606.17969](http://arxiv.org/abs/2606.17969)|null|
+|**2026-06-16**|**Heterogeneous SAR-optical fusion for near-real-time land use and land cover mapping under cloud contamination: A novel framework and global benchmark dataset**|Jiangong Xu et.al.|[2606.17713](http://arxiv.org/abs/2606.17713)|null|
+|**2026-06-15**|**Energy-efficient codon optimization on thermodynamic hardware**|Andraz Jelincic et.al.|[2606.17327](http://arxiv.org/abs/2606.17327)|null|
+|**2026-06-15**|**GeoDisaster: Benchmarking Orchestrated Agents for Operational Disaster Geo-Intelligence**|Maram Hasan et.al.|[2606.17246](http://arxiv.org/abs/2606.17246)|null|
 |**2026-06-15**|**WaveDINO: Learning-Based Atmospheric Correction of Unwrapped InSAR Interferograms Validated by GNSS: Results at Laguna del Maule and Campi Flegrei Volcanoes**|Robert Popescu et.al.|[2606.16795](http://arxiv.org/abs/2606.16795)|null|
 |**2026-06-15**|**Explainable Flood Segmentation on Sentinel-1 SAR Imagery: A Comparative Study of CNN and Transformer Architectures**|Arundhuti Banerjee et.al.|[2606.16302](http://arxiv.org/abs/2606.16302)|null|
 |**2026-06-14**|**VEPHand: View-Efficient Photometric Hand Performance Capture at Scale**|Zhengyang Shen et.al.|[2606.15966](http://arxiv.org/abs/2606.15966)|null|
@@ -9274,6 +9283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds**|Haoyuan Shen et.al.|[2606.20455](http://arxiv.org/abs/2606.20455)|null|
+|**2026-06-18**|**LIT-GS: LiDAR-Inertial-Thermal Gaussian Splatting for Illumination-Robust Mapping**|Shikuan Shi et.al.|[2606.20424](http://arxiv.org/abs/2606.20424)|null|
+|**2026-06-18**|**Integrating national forest inventory, airborne lidar, and satellite imagery for wall-to-wall mapping of forest structure with computer vision**|Luke J. Zachmann et.al.|[2606.20291](http://arxiv.org/abs/2606.20291)|null|
+|**2026-06-18**|**HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-trainin**|Maciej Wozniak et.al.|[2606.20189](http://arxiv.org/abs/2606.20189)|null|
+|**2026-06-18**|**Geometry-Preserving in 3D Gaussian Splatting for LiDAR-Camera Extrinsic Calibration**|Kyoleen Kwak et.al.|[2606.20103](http://arxiv.org/abs/2606.20103)|null|
+|**2026-06-18**|**Motor Angular Speed Preintegration for Multirotor UAV State Estimation**|Matěj Petrlík et.al.|[2606.19929](http://arxiv.org/abs/2606.19929)|null|
+|**2026-06-18**|**QMCtwin: Master-Equation Simulation of Syndrome Statistics Beyond Pauli Noise**|Tong Shen et.al.|[2606.19848](http://arxiv.org/abs/2606.19848)|null|
+|**2026-06-18**|**ForEnt: A Multi-Modal Dataset for Characterizing Quadruped Robot Entrapments in Forest Environments**|Natapat Kirdwichai et.al.|[2606.19675](http://arxiv.org/abs/2606.19675)|null|
+|**2026-06-17**|**FAST-LIVGO: A Degeneracy-Robust LiDAR-Inertial-Visual-GNSS Fusion Odometry**|Zhiyu Chen et.al.|[2606.19190](http://arxiv.org/abs/2606.19190)|null|
+|**2026-06-17**|**Viking Hill Dataset: A Lidar-Radar-Camera Dataset for Detection and Segmentation in Forest Scenes**|Vladimír Kubelka et.al.|[2606.19154](http://arxiv.org/abs/2606.19154)|null|
 |**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|null|
 |**2026-06-15**|**Automated Digital Twin Construction for Highway Scenarios Using LiDAR Point Clouds and OpenStreetMap**|Yongqi Zhao et.al.|[2606.16570](http://arxiv.org/abs/2606.16570)|null|
 |**2026-06-15**|**Uncertainty Quality of VGGT: An Analysis on the DTU Benchmark Dataset**|Markus Hillemann et.al.|[2606.16479](http://arxiv.org/abs/2606.16479)|null|
@@ -9362,6 +9381,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**State estimation of Rayleigh-Bénard convection with reduced-order models**|Enrique Flores-Montoya et.al.|[2606.20511](http://arxiv.org/abs/2606.20511)|null|
+|**2026-06-18**|**PiMiX 2.0: AI-enhanced Data Fusion for Radiographic Imaging and Tomography**|Zhehui Wang et.al.|[2606.19670](http://arxiv.org/abs/2606.19670)|null|
+|**2026-06-17**|**The Sheaf Laplacian: A Topological Framework for Data Fusion and Consensus in Distributed Sensing Networks**|Manuel Hernández et.al.|[2606.19529](http://arxiv.org/abs/2606.19529)|null|
+|**2026-06-17**|**Higher Accuracy Modular Data Assimilation for the Navier-Stokes Equations**|Troy Yang et.al.|[2606.19508](http://arxiv.org/abs/2606.19508)|null|
+|**2026-06-17**|**A Conjugate Gradient Formulation of the EnKF Algorithm**|Sanghyun Lee et.al.|[2606.19224](http://arxiv.org/abs/2606.19224)|null|
+|**2026-06-17**|**Comparing Deterministic and Stochastic Parameter Recovery Algorithms Applied to Chaotic Systems**|Ashley Wang et.al.|[2606.18568](http://arxiv.org/abs/2606.18568)|null|
+|**2026-06-15**|**Semiparametric Mediation Analysis with Separately Observed Mediator and Outcome under Unmeasured Confounding**|Sijia Li et.al.|[2606.17232](http://arxiv.org/abs/2606.17232)|null|
 |**2026-06-15**|**CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation**|Jan-Niklas Klein et.al.|[2606.16935](http://arxiv.org/abs/2606.16935)|null|
 |**2026-06-15**|**Graphical conditional generative modeling for digital twin modeling**|Zongren Zou et.al.|[2606.16219](http://arxiv.org/abs/2606.16219)|null|
 |**2026-06-15**|**Random-Feature Kalman Filtering for Linear PDE Data Assimilation**|Xi'an Li et.al.|[2606.16086](http://arxiv.org/abs/2606.16086)|null|
@@ -9471,6 +9497,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Caching for Dollars, Not Hits: An Exact Offline Reference for Cloud-Egress Caching and the Crossover That Decides When It Pays**|Madhulatha Mandarapu et.al.|[2606.20539](http://arxiv.org/abs/2606.20539)|null|
+|**2026-06-18**|**PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds**|Haoyuan Shen et.al.|[2606.20455](http://arxiv.org/abs/2606.20455)|null|
+|**2026-06-18**|**Plasma Etch Process Optimization for Photonic-Grade Diamond-on-Insulator Substrates and Thickness Evaluation using Colorimetry**|Tianyin Chena et.al.|[2606.20412](http://arxiv.org/abs/2606.20412)|null|
+|**2026-06-18**|**SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision**|Jiayu Tang et.al.|[2606.19915](http://arxiv.org/abs/2606.19915)|null|
+|**2026-06-18**|**Occ-VLM: Occupancy Grounded Vision Language Model for Indoor Scene Understanding**|Jianing Li et.al.|[2606.19776](http://arxiv.org/abs/2606.19776)|null|
+|**2026-06-18**|**Contour-Constrained Deformable Registration with Parameter Characterization for Head and Neck Surgical Guidance**|Qingyun Yang et.al.|[2606.19767](http://arxiv.org/abs/2606.19767)|null|
+|**2026-06-17**|**AI4SE and SE4AI Exploration: A Decade Looking Back and Forward**|H. Sinan Bank et.al.|[2606.19630](http://arxiv.org/abs/2606.19630)|null|
+|**2026-06-17**|**Modeling Branches for Active Manipulation using Iterative Parameter Estimation**|Madhav Rijal et.al.|[2606.19314](http://arxiv.org/abs/2606.19314)|null|
+|**2026-06-17**|**JWST-TST High Contrast: First Direct Spectroscopy of GJ 504 b reveals Clouds and Possible Metal Enrichment**|Aneesh Baburaj et.al.|[2606.19228](http://arxiv.org/abs/2606.19228)|null|
+|**2026-06-17**|**Viking Hill Dataset: A Lidar-Radar-Camera Dataset for Detection and Segmentation in Forest Scenes**|Vladimír Kubelka et.al.|[2606.19154](http://arxiv.org/abs/2606.19154)|null|
 |**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|null|
 |**2026-06-15**|**Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport**|Jin Zhang et.al.|[2606.16672](http://arxiv.org/abs/2606.16672)|null|
 |**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638](http://arxiv.org/abs/2606.16638)|null|
@@ -9565,6 +9601,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
+|**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
+|**2026-06-18**|**Optimal Deterministic Multicalibration and Omniprediction**|Georgy Noarov et.al.|[2606.20557](http://arxiv.org/abs/2606.20557)|null|
+|**2026-06-18**|**The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups**|Przemyslaw Musialski et.al.|[2606.20547](http://arxiv.org/abs/2606.20547)|null|
+|**2026-06-18**|**Predictability as a Fine-Grained Measure for Privacy**|Linda Lu et.al.|[2606.20546](http://arxiv.org/abs/2606.20546)|null|
+|**2026-06-18**|**Toward Calibrated Mixture-of-Experts Under Distribution Shift**|Gina Wong et.al.|[2606.20544](http://arxiv.org/abs/2606.20544)|null|
+|**2026-06-18**|**Multi-Task Bayesian In-Context Learning**|Qingyang Zhu et.al.|[2606.20538](http://arxiv.org/abs/2606.20538)|null|
+|**2026-06-18**|**Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving**|Liang Su et.al.|[2606.20537](http://arxiv.org/abs/2606.20537)|null|
+|**2026-06-18**|**Near-Optimal Learning of Local Lindbladians**|Itai Arad et.al.|[2606.20535](http://arxiv.org/abs/2606.20535)|null|
+|**2026-06-18**|**On Second-Order Methods for Bilevel Optimization**|Jiawen Bi et.al.|[2606.20534](http://arxiv.org/abs/2606.20534)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Latent space mapping of interpretable structural coordinates from stochastic single-molecule signals**|Matteo Cartiglia et.al.|[2606.16950](http://arxiv.org/abs/2606.16950)|null|
 |**2026-06-15**|**A nonparametric two-sample test using a parametric integral probability metric**|Yuha Park et.al.|[2606.16941](http://arxiv.org/abs/2606.16941)|null|
