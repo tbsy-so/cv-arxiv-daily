@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.22
+## Updated on 2026.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Specific absorption rate of uniaxial single-domain nanomagnets: stochastic spin dynamics versus linear response theory**|H. Kachkachi et.al.|[2606.27351](http://arxiv.org/abs/2606.27351)|null|
+|**2026-06-24**|**Smoothly Time-Varying Continuous Time Markov Chains in Phylogenetics**|Pratyusa Datta et.al.|[2606.26402](http://arxiv.org/abs/2606.26402)|null|
+|**2026-06-23**|**An iterative energy-based multimodal transformer for joint retrieval of wheat soil moisture, leaf area index, and plant height from Sentinel-1 and Sentinel-2 time series**|Shubham Kumar Singh et.al.|[2606.25174](http://arxiv.org/abs/2606.25174)|null|
+|**2026-06-23**|**High Resolution Sediment-Specific Surface Soil Moisture Retrieval Using Sentinel-1 Time Series and Auxiliary Data**|Alireza Hamedianfar et.al.|[2606.24364](http://arxiv.org/abs/2606.24364)|null|
+|**2026-06-23**|**An Integer Linear Programming Approach for Maximum Power Extraction from Solar PV Plants under Partial Shading**|Ushnik Chakrabarti et.al.|[2606.24342](http://arxiv.org/abs/2606.24342)|null|
+|**2026-06-22**|**Token-to-Token Alignment of Text Embeddings for Semantic Blending**|Saar Huberman et.al.|[2606.24021](http://arxiv.org/abs/2606.24021)|null|
+|**2026-06-22**|**Real-Time Multimodal Activity-Aware Error Detection in Robot-Assisted Surgery**|Seyed Hamid Reza Roodabeh et.al.|[2606.23593](http://arxiv.org/abs/2606.23593)|null|
+|**2026-06-22**|**Silicon Ring Based 64 $\times$ 100 GHz Wavelength Division Multiplexing filter**|Q. Deng et.al.|[2606.23173](http://arxiv.org/abs/2606.23173)|null|
+|**2026-06-21**|**Robust Expectation-Maximization for Covariance Estimation in SIRV Models with Missing Data: Application to InSAR Time Series**|M. Cherifi et.al.|[2606.22628](http://arxiv.org/abs/2606.22628)|null|
+|**2026-06-20**|**DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects**|Yi Yang et.al.|[2606.22116](http://arxiv.org/abs/2606.22116)|null|
 |**2026-06-18**|**SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm**|Solène Debuysère et.al.|[2606.20523](http://arxiv.org/abs/2606.20523)|null|
 |**2026-06-17**|**LLM-Mediated Human-AI Interaction in Search and Rescue: Impact of Expertise on Attentional Allocation**|Elahe Oveisi et.al.|[2606.19514](http://arxiv.org/abs/2606.19514)|null|
 |**2026-06-17**|**ROSA-TFormer: A Radar-Optical Sensor-Aware Temporal Transformer for Pinus sylvestris Plantation Classification in Northern Shaanxi Using GEE-Derived Sentinel-1/2 Time Series**|Nengbo Zhang et.al.|[2606.19204](http://arxiv.org/abs/2606.19204)|null|
@@ -9283,6 +9293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**OctoSense: Self-Supervised Learning for Multimodal Robot Perception**|Anthony Bisulco et.al.|[2606.27317](http://arxiv.org/abs/2606.27317)|null|
+|**2026-06-25**|**Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework**|Yijie Bian et.al.|[2606.26567](http://arxiv.org/abs/2606.26567)|null|
+|**2026-06-24**|**Self-Supervised Tree-level Biomass Estimation in Urban Environments From Airborne LiDAR and Optical Observations**|Jose Bermudez et.al.|[2606.26194](http://arxiv.org/abs/2606.26194)|null|
+|**2026-06-24**|**FAR-LIO: Enabling High-Speed Autonomy through Fast, Accurate, and Robust LiDAR-Inertial Odometry**|Maximilian Leitenstern et.al.|[2606.26010](http://arxiv.org/abs/2606.26010)|null|
+|**2026-06-24**|**DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild**|Ahmad Kourani et.al.|[2606.25953](http://arxiv.org/abs/2606.25953)|null|
+|**2026-06-24**|**Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects**|Felix de Trogoff du Boisguezennec et.al.|[2606.25829](http://arxiv.org/abs/2606.25829)|null|
+|**2026-06-24**|**MIL-LC: A Robust Magnetometer-Inertial-LiDAR Fusion Multimodal Localization Framework**|Qiyang Lyu et.al.|[2606.25796](http://arxiv.org/abs/2606.25796)|null|
+|**2026-06-24**|**SA-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Subspace-Aware Degeneracy Handling**|Yinong Cao et.al.|[2606.25699](http://arxiv.org/abs/2606.25699)|null|
+|**2026-06-24**|**Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform**|Mario Finkbeiner et.al.|[2606.25652](http://arxiv.org/abs/2606.25652)|null|
+|**2026-06-25**|**Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner**|Fenghe Guo et.al.|[2606.25393](http://arxiv.org/abs/2606.25393)|null|
 |**2026-06-18**|**PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds**|Haoyuan Shen et.al.|[2606.20455](http://arxiv.org/abs/2606.20455)|null|
 |**2026-06-18**|**LIT-GS: LiDAR-Inertial-Thermal Gaussian Splatting for Illumination-Robust Mapping**|Shikuan Shi et.al.|[2606.20424](http://arxiv.org/abs/2606.20424)|null|
 |**2026-06-18**|**Integrating national forest inventory, airborne lidar, and satellite imagery for wall-to-wall mapping of forest structure with computer vision**|Luke J. Zachmann et.al.|[2606.20291](http://arxiv.org/abs/2606.20291)|null|
@@ -9381,6 +9401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Sparse Sensor Placement for Reducing Forecast Errors in Ensemble Kalman Filtering**|Takumi Saito et.al.|[2606.27267](http://arxiv.org/abs/2606.27267)|null|
+|**2026-06-25**|**Conjecture About Arbitrary Even-Order Convexity of $w$ -Optimization of the Split CIF**|Hao Li et.al.|[2606.27260](http://arxiv.org/abs/2606.27260)|null|
+|**2026-06-25**|**Uncertainty quantification via conformal prediction in data assimilation**|Catherine George et.al.|[2606.27001](http://arxiv.org/abs/2606.27001)|null|
+|**2026-06-25**|**LCAi: Life Cycle Assessment with big data fusion and retrieval-augmented generation-assisted interpretation**|Georgios Tsironis et.al.|[2606.26857](http://arxiv.org/abs/2606.26857)|null|
+|**2026-06-25**|**Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting**|Johnny Peng et.al.|[2606.26520](http://arxiv.org/abs/2606.26520)|null|
+|**2026-06-25**|**Learning Probabilistic Filters with Strictly Proper Scoring Rules**|Eviatar Bach et.al.|[2606.26497](http://arxiv.org/abs/2606.26497)|null|
+|**2026-06-23**|**ADM-Fusion: Adaptive Deep Multi-Sensor Fusion for Robust Ego-Motion Estimation in Diverse Conditions**|Hasan Moughnieh et.al.|[2606.25111](http://arxiv.org/abs/2606.25111)|null|
+|**2026-06-23**|**Low-Cost High-Order Singular Value Decomposition for Tensor-Based Reconstruction from Sparse Sensor Measurements: Urban Flow and Air-Quality Applications**|Arindam Sengupta et.al.|[2606.24989](http://arxiv.org/abs/2606.24989)|null|
+|**2026-06-23**|**When Multi-Sensor Fusion Fails to Generalize: Cattle Posture Classification Under Animal-Level and Temporal Distribution Shift**|Leutrim Uka et.al.|[2606.24986](http://arxiv.org/abs/2606.24986)|null|
+|**2026-06-22**|**Data assimilation of flow MRI data into RANS models with algebraic closures**|C. Namuroy et.al.|[2606.23287](http://arxiv.org/abs/2606.23287)|null|
 |**2026-06-18**|**State estimation of Rayleigh-Bénard convection with reduced-order models**|Enrique Flores-Montoya et.al.|[2606.20511](http://arxiv.org/abs/2606.20511)|null|
 |**2026-06-18**|**PiMiX 2.0: AI-enhanced Data Fusion for Radiographic Imaging and Tomography**|Zhehui Wang et.al.|[2606.19670](http://arxiv.org/abs/2606.19670)|null|
 |**2026-06-17**|**The Sheaf Laplacian: A Topological Framework for Data Fusion and Consensus in Distributed Sensing Networks**|Manuel Hernández et.al.|[2606.19529](http://arxiv.org/abs/2606.19529)|null|
@@ -9497,6 +9527,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity**|Yuemin Mao et.al.|[2606.27344](http://arxiv.org/abs/2606.27344)|null|
+|**2026-06-25**|**UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping**|Feng Pan et.al.|[2606.26928](http://arxiv.org/abs/2606.26928)|null|
+|**2026-06-25**|**Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation**|Amjad Hussain et.al.|[2606.26743](http://arxiv.org/abs/2606.26743)|null|
+|**2026-06-25**|**Development and Characterization of Low-Scattering Vanadium Nanoparticle Targets for Short-Range Interaction Searches**|Masayuki Hiromoto et.al.|[2606.26732](http://arxiv.org/abs/2606.26732)|null|
+|**2026-06-25**|**Learning Motion Feasibility from Point Clouds in Cluttered Environments**|Sajid Ansari et.al.|[2606.26700](http://arxiv.org/abs/2606.26700)|null|
+|**2026-06-25**|**LayersReg: A Layer-by-Layer Progressive Regressor for Reliable Intraoperative 3D/2D Registration**|Xiyuan Wang et.al.|[2606.26647](http://arxiv.org/abs/2606.26647)|null|
+|**2026-06-25**|**An Evaluation of Decentralized Group Formation Techniques for Flying Light Specks**|Hamed Alimohammadzadeh et.al.|[2606.26645](http://arxiv.org/abs/2606.26645)|null|
+|**2026-06-25**|**Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework**|Yijie Bian et.al.|[2606.26567](http://arxiv.org/abs/2606.26567)|null|
+|**2026-06-25**|**Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation**|Han-yu Wang et.al.|[2606.26502](http://arxiv.org/abs/2606.26502)|null|
+|**2026-06-24**|**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy**|Hao Sun et.al.|[2606.26092](http://arxiv.org/abs/2606.26092)|null|
 |**2026-06-18**|**Caching for Dollars, Not Hits: An Exact Offline Reference for Cloud-Egress Caching and the Crossover That Decides When It Pays**|Madhulatha Mandarapu et.al.|[2606.20539](http://arxiv.org/abs/2606.20539)|null|
 |**2026-06-18**|**PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds**|Haoyuan Shen et.al.|[2606.20455](http://arxiv.org/abs/2606.20455)|null|
 |**2026-06-18**|**Plasma Etch Process Optimization for Photonic-Grade Diamond-on-Insulator Substrates and Thickness Evaluation using Colorimetry**|Tianyin Chena et.al.|[2606.20412](http://arxiv.org/abs/2606.20412)|null|
@@ -9601,6 +9641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**DanceOPD: On-Policy Generative Field Distillation**|Wei Zhou et.al.|[2606.27377](http://arxiv.org/abs/2606.27377)|null|
+|**2026-06-25**|**Reinforcement Learning without Ground-Truth Solutions can Improve LLMs**|Yingyu Lin et.al.|[2606.27369](http://arxiv.org/abs/2606.27369)|null|
+|**2026-06-25**|**Autoregressive Boltzmann Generators**|Danyal Rehman et.al.|[2606.27361](http://arxiv.org/abs/2606.27361)|null|
+|**2026-06-25**|**When are likely answers right? On Sequence Probability and Correctness in LLMs**|Johannes Zenn et.al.|[2606.27359](http://arxiv.org/abs/2606.27359)|null|
+|**2026-06-25**|**Error-Conditioned Neural Solvers**|Haina Jiang et.al.|[2606.27354](http://arxiv.org/abs/2606.27354)|null|
+|**2026-06-25**|**All you need is log**|Akshay Balsubramani et.al.|[2606.27349](http://arxiv.org/abs/2606.27349)|null|
+|**2026-06-25**|**Bridging Performance and Generalization in Reinforcement Learning for Agile Flight**|Jonathan Green et.al.|[2606.27348](http://arxiv.org/abs/2606.27348)|null|
+|**2026-06-25**|**VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity**|Yuemin Mao et.al.|[2606.27344](http://arxiv.org/abs/2606.27344)|null|
+|**2026-06-25**|**Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching**|Nicholas Pulsone et.al.|[2606.27342](http://arxiv.org/abs/2606.27342)|null|
+|**2026-06-25**|**Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning**|Tianyi Men et.al.|[2606.27330](http://arxiv.org/abs/2606.27330)|null|
 |**2026-06-18**|**How Transparent is DiffusionGemma?**|Joshua Engels et.al.|[2606.20560](http://arxiv.org/abs/2606.20560)|null|
 |**2026-06-18**|**UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning**|Wenhao Chi et.al.|[2606.20559](http://arxiv.org/abs/2606.20559)|null|
 |**2026-06-18**|**Optimal Deterministic Multicalibration and Omniprediction**|Georgy Noarov et.al.|[2606.20557](http://arxiv.org/abs/2606.20557)|null|
