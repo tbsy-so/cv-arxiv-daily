@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.06
+## Updated on 2026.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Fluctuation theorems for autonomous work**|Christopher Jarzynski et.al.|[2607.07843](http://arxiv.org/abs/2607.07843)|null|
+|**2026-07-08**|**Context-Aware Slum Mapping in Sub-Saharan Africa Using Sentinel-1 Texture and Local Climate Zones**|Peterson Chepkilot et.al.|[2607.07532](http://arxiv.org/abs/2607.07532)|null|
+|**2026-07-04**|**TRISTAR: Triple-Signal Stair Recognition and Vision-Only Indoor Navigation for Search-and-Rescue Micro-UAVs**|Octavian Gîngu et.al.|[2607.03818](http://arxiv.org/abs/2607.03818)|null|
+|**2026-07-09**|**Phase-Preserving Trimodal Transformer for Tropical Forest Biomass Estimation Using Optical and PolInSAR Data**|Luiz Felipe Parente Santiago et.al.|[2607.03663](http://arxiv.org/abs/2607.03663)|null|
+|**2026-07-03**|**Revealing Hidden Model Behaviors with Task-Specific Self-Reports**|Taras Kutsyk et.al.|[2607.03640](http://arxiv.org/abs/2607.03640)|null|
+|**2026-07-03**|**Effective potentials for polar molecules under non-orthogonal dual microwave fields**|Fulin Deng et.al.|[2607.03179](http://arxiv.org/abs/2607.03179)|null|
+|**2026-07-03**|**Spectral Rewiring for Exploration, Purification, and Model Merging**|Zhilong Zhang et.al.|[2607.03065](http://arxiv.org/abs/2607.03065)|null|
+|**2026-07-02**|**Direct numerical simulations of turbulent drag reduction via piezoelectric actuation**|Amir Amjadimanesh et.al.|[2607.02398](http://arxiv.org/abs/2607.02398)|null|
+|**2026-07-05**|**Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts**|Xinyuan Song et.al.|[2607.01767](http://arxiv.org/abs/2607.01767)|null|
+|**2026-07-01**|**When Self-Protection Backfires: Adaptive Contact Behavior Expands the Endemic Basin in an Addiction Model with Nonlinear Relapse**|Fabio Sanchez et.al.|[2607.00421](http://arxiv.org/abs/2607.00421)|null|
 |**2026-06-30**|**SAMBA: A Scatter-Guided Masked Bidirectional Mamba Foundation Model for SAR Target Recognition**|Ke Wang et.al.|[2606.31668](http://arxiv.org/abs/2606.31668)|null|
 |**2026-06-30**|**ILPU: Iterative Laplace-Based Phase Unwrapping via Bi-Level Optimization**|Michael Fedders et.al.|[2606.31460](http://arxiv.org/abs/2606.31460)|null|
 |**2026-06-30**|**Learning to Select, Not Relearn: Hard-Routed Mixtures of Reasoning LoRAs**|Seyed Alireza Molavi et.al.|[2606.31413](http://arxiv.org/abs/2606.31413)|null|
@@ -9303,6 +9313,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**LTM: Large-scale Terrain Model for Wildfire-prone Landscapes**|Xiao Fu et.al.|[2607.08711](http://arxiv.org/abs/2607.08711)|null|
+|**2026-07-09**|**On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection**|Ahmet Soyyigit et.al.|[2607.08391](http://arxiv.org/abs/2607.08391)|null|
+|**2026-07-09**|**Development of a Raman Lidar for the Southern Site of the Cherenkov Telescope Array Observatory**|Patrick Brun et.al.|[2607.08289](http://arxiv.org/abs/2607.08289)|null|
+|**2026-07-08**|**3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies**|Stephan Nebiker et.al.|[2607.07905](http://arxiv.org/abs/2607.07905)|null|
+|**2026-07-08**|**Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments**|Erik Jagnandan et.al.|[2607.07885](http://arxiv.org/abs/2607.07885)|null|
+|**2026-07-08**|**STEMbot: A Compliant Robot for Under-Canopy Plant Navigation**|Zachary Charlick et.al.|[2607.07873](http://arxiv.org/abs/2607.07873)|null|
+|**2026-07-09**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370](http://arxiv.org/abs/2607.07370)|null|
+|**2026-07-08**|**Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model**|Yilong Chen et.al.|[2607.06896](http://arxiv.org/abs/2607.06896)|null|
+|**2026-07-07**|**Rail Track Extraction from Rasterized Classified Point Clouds Using a Full-Resolution, Fully Convolutional Recurrent Neural Network**|Alexander Gribov et.al.|[2607.06829](http://arxiv.org/abs/2607.06829)|null|
+|**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782](http://arxiv.org/abs/2607.06782)|null|
 |**2026-06-30**|**FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data**|Emilie Vautier et.al.|[2606.32023](http://arxiv.org/abs/2606.32023)|null|
 |**2026-06-30**|**Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing**|Jiale Fan et.al.|[2606.31912](http://arxiv.org/abs/2606.31912)|null|
 |**2026-06-30**|**RESOLVE: A Multi-Resolution and Multi-Modal Dataset for Roadside Cooperative Perception**|Shaozu Ding et.al.|[2606.31895](http://arxiv.org/abs/2606.31895)|null|
@@ -9421,6 +9441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**APVI-SLAM: Real-Time Acoustic-Pressure-Visual-Inertial Localization and Photorealistic Mapping System in Complex Underwater Environment**|Hanwen Zhang et.al.|[2607.06222](http://arxiv.org/abs/2607.06222)|null|
+|**2026-07-07**|**Fusion or Confusion? Potential and Challenges in Fusion of Onboard Sensors and V2X Data in Cooperative Perception**|Amir Mohammadisarab et.al.|[2607.05889](http://arxiv.org/abs/2607.05889)|null|
+|**2026-07-06**|**Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba**|Abinav Kalyanasundaram et.al.|[2607.05669](http://arxiv.org/abs/2607.05669)|null|
+|**2026-07-06**|**A Mutual Information-Based Ensemble Kalman Filter**|Tadashi Tsuyuki et.al.|[2607.05030](http://arxiv.org/abs/2607.05030)|null|
+|**2026-07-06**|**WinTA-GIL: Windowed Trajectory Alignment for GNSS-IMU-LiDAR Heading Refinement in Intermittent Signal Environments**|Kaixin Feng et.al.|[2607.04879](http://arxiv.org/abs/2607.04879)|null|
+|**2026-07-05**|**A continuous data assimilation method for a variant of Oberbeck-Boussinesq system with randomly perturbed data**|Eduard Feireisl et.al.|[2607.04458](http://arxiv.org/abs/2607.04458)|null|
+|**2026-07-08**|**NavEYE: Vision-Centered Multi-Sensor Fusion-Based Situational Awareness System for Intelligent Surface Vehicles**|Ryan Wen Liu et.al.|[2607.03915](http://arxiv.org/abs/2607.03915)|null|
+|**2026-07-04**|**TRISTAR: Triple-Signal Stair Recognition and Vision-Only Indoor Navigation for Search-and-Rescue Micro-UAVs**|Octavian Gîngu et.al.|[2607.03818](http://arxiv.org/abs/2607.03818)|null|
+|**2026-07-03**|**Transferable inference of turbulence models for urban flows with the Parameter-Regularised Ensemble Kalman Filter**|Emanuele Bombardi et.al.|[2607.03571](http://arxiv.org/abs/2607.03571)|null|
+|**2026-07-02**|**LLM-Empowered Multimodal Fusion Framework for Autonomous Driving: Semantic Enhancement and Channel-Adaptive Design**|Wen Wang et.al.|[2607.01772](http://arxiv.org/abs/2607.01772)|null|
 |**2026-06-30**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
 |**2026-06-29**|**Joint discovery of governing partial differential equations from multi-source datasets by competitive optimization**|Hao Xu et.al.|[2606.30699](http://arxiv.org/abs/2606.30699)|null|
 |**2026-06-29**|**MaDI-Bench: An End-to-End Data Integration Benchmark**|Aaron Steiner et.al.|[2606.30371](http://arxiv.org/abs/2606.30371)|null|
@@ -9555,6 +9585,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
+|**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Yunchao Yao et.al.|[2607.08751](http://arxiv.org/abs/2607.08751)|null|
+|**2026-07-09**|**Calibrated Persistent-Laplacian CUSUM for Online Change-Point Detection**|Shiheng Nie et.al.|[2607.08635](http://arxiv.org/abs/2607.08635)|null|
+|**2026-07-09**|**Elitism in the Aisle: A Long-Run Surname Measure of Legislative Elite Composition in Chile, 1834-2020**|Naim Bro et.al.|[2607.08520](http://arxiv.org/abs/2607.08520)|null|
+|**2026-07-09**|**Building confidence regions for Reeb graphs using the interleaving distance**|Matteo Pegoraro et.al.|[2607.08458](http://arxiv.org/abs/2607.08458)|null|
+|**2026-07-09**|**On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection**|Ahmet Soyyigit et.al.|[2607.08391](http://arxiv.org/abs/2607.08391)|null|
+|**2026-07-09**|**Selecting Interpretable Circular Coordinates from Data**|Vincent P. Grande et.al.|[2607.08230](http://arxiv.org/abs/2607.08230)|null|
+|**2026-07-08**|**3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies**|Stephan Nebiker et.al.|[2607.07905](http://arxiv.org/abs/2607.07905)|null|
+|**2026-07-08**|**Any-Dimensional Learning by Sampling**|Eitan Levin et.al.|[2607.07680](http://arxiv.org/abs/2607.07680)|null|
+|**2026-07-09**|**Clinical Translation of Brain-Computer Interface in China: A Landscape Analysis of Investigator-Initiated Trials, Registered Clinical Trials, and Regulatory Approval**|Long Chen et.al.|[2607.07185](http://arxiv.org/abs/2607.07185)|null|
 |**2026-06-30**|**FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data**|Emilie Vautier et.al.|[2606.32023](http://arxiv.org/abs/2606.32023)|null|
 |**2026-06-30**|**DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation**|Junzhe Jiang et.al.|[2606.31918](http://arxiv.org/abs/2606.31918)|null|
 |**2026-06-30**|**RESOLVE: A Multi-Resolution and Multi-Modal Dataset for Roadside Cooperative Perception**|Shaozu Ding et.al.|[2606.31895](http://arxiv.org/abs/2606.31895)|null|
@@ -9679,6 +9719,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
+|**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
+|**2026-07-09**|**Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**|Yiwei Zhou et.al.|[2607.08757](http://arxiv.org/abs/2607.08757)|null|
+|**2026-07-09**|**MulTTiPop: A Multitrack Transcription Dataset for Pop Music**|Nathan Pruyne et.al.|[2607.08756](http://arxiv.org/abs/2607.08756)|null|
+|**2026-07-09**|**SLORR: Simple and Efficient In-Training Low-Rank Regularization**|David González-Martínez et.al.|[2607.08754](http://arxiv.org/abs/2607.08754)|null|
+|**2026-07-09**|**Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph**|Duen Horng Chau et.al.|[2607.08746](http://arxiv.org/abs/2607.08746)|null|
+|**2026-07-09**|**ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation**|Kaifeng Zhao et.al.|[2607.08741](http://arxiv.org/abs/2607.08741)|null|
+|**2026-07-09**|**Super Weights in LLMs and the Failure of Selective Training**|Shreyas Subramanian et.al.|[2607.08733](http://arxiv.org/abs/2607.08733)|null|
+|**2026-07-09**|**Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction**|Ayda Eghbalian et.al.|[2607.08725](http://arxiv.org/abs/2607.08725)|null|
+|**2026-07-09**|**Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference**|Chuning Zhu et.al.|[2607.08724](http://arxiv.org/abs/2607.08724)|null|
 |**2026-06-30**|**Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**|Zifan Carl Guo et.al.|[2606.32038](http://arxiv.org/abs/2606.32038)|null|
 |**2026-06-30**|**QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents**|Sergio Hernández-Gutiérrez et.al.|[2606.32034](http://arxiv.org/abs/2606.32034)|null|
 |**2026-06-30**|**Freeform Preference Learning for Robotic Manipulation**|Marcel Torne et.al.|[2606.32027](http://arxiv.org/abs/2606.32027)|null|
