@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**PUe: Biased Positive-Unlabeled Learning Enhancement by Causal Inference**|Xutao Wang et.al.|[2607.13428](http://arxiv.org/abs/2607.13428)|null|
+|**2026-07-14**|**TerraLogic: A Benchmark for Hierarchical Geospatial Reasoning in Earth Observation**|Yuhang Yan et.al.|[2607.12497](http://arxiv.org/abs/2607.12497)|null|
+|**2026-07-13**|**Measuring the Re-executability of Published Molecular Docking Claims**|Vincent Giap et.al.|[2607.12117](http://arxiv.org/abs/2607.12117)|null|
+|**2026-07-13**|**Robust bipedal locomotion on flowable slopes via foot-driven terrain manipulation**|Deniz Kerimoglu et.al.|[2607.11855](http://arxiv.org/abs/2607.11855)|null|
+|**2026-07-13**|**Uncertainty Quantification for EO Regression Tasks: Building Height, Tree Canopy Height and Above-ground Biomass Estimation**|Ritu Yadav et.al.|[2607.11412](http://arxiv.org/abs/2607.11412)|null|
+|**2026-07-13**|**Holographic MIMO-assisted Multiuser Transmission with Electromagnetic Exposure Constraints**|Yilin Yang et.al.|[2607.11015](http://arxiv.org/abs/2607.11015)|null|
+|**2026-07-13**|**SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception**|Mingjie Xie et.al.|[2607.11008](http://arxiv.org/abs/2607.11008)|null|
+|**2026-07-12**|**End-to-End Real-Time Drone-Based Person Detection Framework Using Deep Learning**|Payel Sarmah et.al.|[2607.10605](http://arxiv.org/abs/2607.10605)|null|
+|**2026-07-11**|**Millimeter Wave Radar: From Synthetic Aperture to Probabilistic Mapping**|Jui-Te Huang et.al.|[2607.10161](http://arxiv.org/abs/2607.10161)|null|
+|**2026-07-10**|**LLMs for health: Perceived benefits, risks, intention to use AI chatbots, and willingness to self-disclose across sensitive health topics**|Gwenn Beets et.al.|[2607.09253](http://arxiv.org/abs/2607.09253)|null|
 |**2026-07-08**|**Fluctuation theorems for autonomous work**|Christopher Jarzynski et.al.|[2607.07843](http://arxiv.org/abs/2607.07843)|null|
 |**2026-07-08**|**Context-Aware Slum Mapping in Sub-Saharan Africa Using Sentinel-1 Texture and Local Climate Zones**|Peterson Chepkilot et.al.|[2607.07532](http://arxiv.org/abs/2607.07532)|null|
 |**2026-07-04**|**TRISTAR: Triple-Signal Stair Recognition and Vision-Only Indoor Navigation for Search-and-Rescue Micro-UAVs**|Octavian Gîngu et.al.|[2607.03818](http://arxiv.org/abs/2607.03818)|null|
@@ -9284,7 +9294,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-23**|**Human-Centered AI for Safe Shuttle Car Routing in Underground Room-and-Pillar Coal Mines Using Graph Neural Networks**|Bryant Pollard et.al.|[2606.09841](http://arxiv.org/abs/2606.09841)|null|
-|**2026-06-08**|**CIG-Bench: A Comprehensive Survey and Benchmark for AI-Driven Subsurface Imaging Understanding**|Yimin Dou et.al.|[2606.09094](http://arxiv.org/abs/2606.09094)|null|
+|**2026-07-11**|**Artificial Intelligence for Subsurface Imaging Understanding: A Decade Review of Challenges, Methods, Benchmarks, and Outlook**|Yimin Dou et.al.|[2606.09094](http://arxiv.org/abs/2606.09094)|null|
 |**2026-06-02**|**From 3D Perception to Safety Reasoning: A Graph-Based Framework for Real-Time Underground Mine Monitoring**|Pasindu Ranasinghe et.al.|[2606.03460](http://arxiv.org/abs/2606.03460)|null|
 |**2026-05-15**|**Stress state, subsidence, and faulting in the Wilmington Oil Field, California: a multiphase flow-geomechanics modeling assessment (1936-2020)**|Lluís Saló-Salgado et.al.|[2605.16711](http://arxiv.org/abs/2605.16711)|null|
 |**2026-05-29**|**Position: the Stochastic Parrot in the Coal Mine. Model Collapse is a Threat to Low-Resource Communities**|Devon Jarvis et.al.|[2605.04127](http://arxiv.org/abs/2605.04127)|null|
@@ -9313,6 +9323,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](http://arxiv.org/abs/2607.14005)|null|
+|**2026-07-15**|**M3F-UAV: A Missing-Modality Multimodal Foundation Model for Low-Altitude Wireless Sensing**|Pengxuan Gao et.al.|[2607.13678](http://arxiv.org/abs/2607.13678)|null|
+|**2026-07-15**|**Improving Map Consistency in Graph-Based LiDAR SLAM Through Information-Aware Odometry and Retroactive Loop Closure**|Saurabh Gupta et.al.|[2607.13516](http://arxiv.org/abs/2607.13516)|null|
+|**2026-07-15**|**WNOJ-LIO: A White-Noise-on-Jerk Motion-Prior EKF for High-Dynamic LiDAR-IMU Fusion**|Junning Lyu et.al.|[2607.13405](http://arxiv.org/abs/2607.13405)|null|
+|**2026-07-15**|**RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery**|Tessa Cannon et.al.|[2607.13371](http://arxiv.org/abs/2607.13371)|null|
+|**2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Haojie Ren et.al.|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
+|**2026-07-14**|**Twist Engineering for Reconfigurable Optical and Optoelectronic Devices**|Gang Huang et.al.|[2607.12754](http://arxiv.org/abs/2607.12754)|null|
+|**2026-07-14**|**DeGuNet: Depth-Guided Ultra-Compact Backbones for Efficient LiDAR-Camera 3D Detection**|Haifa Zhang et.al.|[2607.12419](http://arxiv.org/abs/2607.12419)|null|
+|**2026-07-14**|**StratMamba: Strategic and Reactive Stream Partitioning for Path-Efficient LiDAR-Based Obstacle Avoidance**|Hung-Chieh Wu et.al.|[2607.12370](http://arxiv.org/abs/2607.12370)|null|
+|**2026-07-14**|**DiffRadar: Differentiable Physics-Aware Radar SLAM with Gaussian Fields**|Gaurav Bagwe et.al.|[2607.12265](http://arxiv.org/abs/2607.12265)|null|
 |**2026-07-09**|**LTM: Large-scale Terrain Model for Wildfire-prone Landscapes**|Xiao Fu et.al.|[2607.08711](http://arxiv.org/abs/2607.08711)|null|
 |**2026-07-09**|**On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection**|Ahmet Soyyigit et.al.|[2607.08391](http://arxiv.org/abs/2607.08391)|null|
 |**2026-07-09**|**Development of a Raman Lidar for the Southern Site of the Cherenkov Telescope Array Observatory**|Patrick Brun et.al.|[2607.08289](http://arxiv.org/abs/2607.08289)|null|
@@ -9441,6 +9461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**JW-ASTClaw: A Generalizable Multi-Agent Framework for Autonomous Solar Telescope and Its Implementation within Chinese Meridian Project**|Li-Yue Tong et.al.|[2607.13549](http://arxiv.org/abs/2607.13549)|null|
+|**2026-07-14**|**Ensemble Controlled-Flow Filtering for Implicit Data Assimilation**|Zhuoyuan Li et.al.|[2607.12975](http://arxiv.org/abs/2607.12975)|null|
 |**2026-07-07**|**APVI-SLAM: Real-Time Acoustic-Pressure-Visual-Inertial Localization and Photorealistic Mapping System in Complex Underwater Environment**|Hanwen Zhang et.al.|[2607.06222](http://arxiv.org/abs/2607.06222)|null|
 |**2026-07-07**|**Fusion or Confusion? Potential and Challenges in Fusion of Onboard Sensors and V2X Data in Cooperative Perception**|Amir Mohammadisarab et.al.|[2607.05889](http://arxiv.org/abs/2607.05889)|null|
 |**2026-07-06**|**Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba**|Abinav Kalyanasundaram et.al.|[2607.05669](http://arxiv.org/abs/2607.05669)|null|
@@ -9585,6 +9607,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation**|Honglu He et.al.|[2607.14021](http://arxiv.org/abs/2607.14021)|null|
+|**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009](http://arxiv.org/abs/2607.14009)|null|
+|**2026-07-15**|**The 2nd International StepUP Competition for Biometric Footstep Recognition: From Steps to Strides**|Robyn Larracy et.al.|[2607.13905](http://arxiv.org/abs/2607.13905)|null|
+|**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](http://arxiv.org/abs/2607.13891)|null|
+|**2026-07-15**|**M3F-UAV: A Missing-Modality Multimodal Foundation Model for Low-Altitude Wireless Sensing**|Pengxuan Gao et.al.|[2607.13678](http://arxiv.org/abs/2607.13678)|null|
+|**2026-07-15**|**Improving Map Consistency in Graph-Based LiDAR SLAM Through Information-Aware Odometry and Retroactive Loop Closure**|Saurabh Gupta et.al.|[2607.13516](http://arxiv.org/abs/2607.13516)|null|
+|**2026-07-15**|**DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching**|Josiane Uwumukiza et.al.|[2607.13449](http://arxiv.org/abs/2607.13449)|null|
+|**2026-07-15**|**WNOJ-LIO: A White-Noise-on-Jerk Motion-Prior EKF for High-Dynamic LiDAR-IMU Fusion**|Junning Lyu et.al.|[2607.13405](http://arxiv.org/abs/2607.13405)|null|
+|**2026-07-15**|**Marker-free deformable registration and fusion for augmented reality-guided positive margin localization during tumor resection surgery**|Yue Yang et.al.|[2607.13343](http://arxiv.org/abs/2607.13343)|null|
+|**2026-07-14**|**ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models**|Haojie Ren et.al.|[2607.12959](http://arxiv.org/abs/2607.12959)|null|
 |**2026-07-09**|**Wat3R: Underwater 3D Geometry Learning without Annotations**|Jiangwei Ren et.al.|[2607.08772](http://arxiv.org/abs/2607.08772)|null|
 |**2026-07-09**|**DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation**|Yunchao Yao et.al.|[2607.08751](http://arxiv.org/abs/2607.08751)|null|
 |**2026-07-09**|**Calibrated Persistent-Laplacian CUSUM for Online Change-Point Detection**|Shiheng Nie et.al.|[2607.08635](http://arxiv.org/abs/2607.08635)|null|
@@ -9719,6 +9751,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study**|Zhan Chen et.al.|[2607.14041](http://arxiv.org/abs/2607.14041)|null|
+|**2026-07-15**|**Beyond Constant Error: Heteroscedastic Bayesian Model Combination for Modeling Unmeasured Nuclei**|B. Knight et.al.|[2607.14039](http://arxiv.org/abs/2607.14039)|null|
+|**2026-07-15**|**Early Adoption of Agentic Coding Tools by GitHub Projects**|Maliha Noushin Raida et.al.|[2607.14037](http://arxiv.org/abs/2607.14037)|null|
+|**2026-07-15**|**The WEST code for large-scale excited-state materials simulations**|Victor Wen-zhe Yu et.al.|[2607.14025](http://arxiv.org/abs/2607.14025)|null|
+|**2026-07-15**|**Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study**|Daniel Grillmeyer et.al.|[2607.14024](http://arxiv.org/abs/2607.14024)|null|
+|**2026-07-15**|**Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth**|Katie Everett et.al.|[2607.14018](http://arxiv.org/abs/2607.14018)|null|
+|**2026-07-15**|**Square-Root Law for Covert Communication with Warden-Favorable Side Information**|Hossein Ahmadi et.al.|[2607.14013](http://arxiv.org/abs/2607.14013)|null|
+|**2026-07-15**|**Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points**|Mustafa Emre Gürsoy et.al.|[2607.14008](http://arxiv.org/abs/2607.14008)|null|
+|**2026-07-15**|**Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0**|Wenxiao Wang et.al.|[2607.14004](http://arxiv.org/abs/2607.14004)|null|
+|**2026-07-15**|**Lyapunov Exponent as Physics-Informed Dense Reward: RL Discovery of Stabilization Beyond the Kapitza Pendulum**|Slava Andrejev et.al.|[2607.14001](http://arxiv.org/abs/2607.14001)|null|
 |**2026-07-09**|**Typicality of Steering for Two-qubit States**|Gerard Anglès Munné et.al.|[2607.08762](http://arxiv.org/abs/2607.08762)|null|
 |**2026-07-09**|**Irreducible Geometry of Higher-Order Correlator Families**|Kaito Kobayashi et.al.|[2607.08761](http://arxiv.org/abs/2607.08761)|null|
 |**2026-07-09**|**Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling**|Yiwei Zhou et.al.|[2607.08757](http://arxiv.org/abs/2607.08757)|null|
