@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.21
+## Updated on 2026.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,8 +9154,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Machine-Learned Compact Subspace Generation for Quantum Selected Configuration Interaction within Density Matrix Embedding Framework**|Ashish Kumar Patra et.al.|[2607.20585](http://arxiv.org/abs/2607.20585)|null|
+|**2026-07-21**|**Spatially resolved in-situ characterisation of competing martensitic transformation pathways during nanoscratch in 316H Stainless Steel**|A. Kareer et.al.|[2607.19239](http://arxiv.org/abs/2607.19239)|null|
+|**2026-07-21**|**Enhancing Relation Modeling with Social Attributes for Social Media Popularity Prediction**|Bolun Zheng et.al.|[2607.19200](http://arxiv.org/abs/2607.19200)|null|
+|**2026-07-21**|**Flexible Intelligent Metasurface-Aided ISAC: User Fairness Optimization and Performance Evaluation**|Hailun Huang et.al.|[2607.18893](http://arxiv.org/abs/2607.18893)|null|
+|**2026-07-20**|**SAR Vessel Detection and Gross Tonnage Estimation from Heterogeneous Datasets for Dark Vessel Identification**|Davide Paltrinieri et.al.|[2607.18051](http://arxiv.org/abs/2607.18051)|null|
+|**2026-07-20**|**Trustworthy Protein-Ligand Binding Affinity Prediction via Reliability-Aware Multi-Engine Fusion**|Yongchan Hong et.al.|[2607.17601](http://arxiv.org/abs/2607.17601)|null|
 |**2026-07-18**|**FUSAR-R1: A Large-Scale Reasoning Model for Intelligent Interpretation of SAR Images**|Yi Yang et.al.|[2607.16819](http://arxiv.org/abs/2607.16819)|null|
-|**2026-07-16**|**LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models**|Xingru Chen et.al.|[2607.16339](http://arxiv.org/abs/2607.16339)|null|
+|**2026-07-22**|**LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models**|Xingru Chen et.al.|[2607.16339](http://arxiv.org/abs/2607.16339)|null|
 |**2026-07-17**|**A Kalman Filter-Assisted Data-Predictive SAR ADC With Reduced Switching Energy for Low-Power Applications**|Xiyuan Feng et.al.|[2607.16139](http://arxiv.org/abs/2607.16139)|null|
 |**2026-07-16**|**On the Disagreement in Perturbation-based xAI -- Benchmarking Perturbation Choices for Flood Detection from SAR Images**|Anastasia Schlegel et.al.|[2607.14743](http://arxiv.org/abs/2607.14743)|null|
 |**2026-07-15**|**Towards Reliable AI-Assisted Analog Design: Template-Constrained LLM Agents for SAR ADC Generation**|Dimple Vijay Kochar et.al.|[2607.14165](http://arxiv.org/abs/2607.14165)|null|
@@ -9329,6 +9335,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar**|Simone Arreghini et.al.|[2607.21309](http://arxiv.org/abs/2607.21309)|null|
+|**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138](http://arxiv.org/abs/2607.21138)|null|
+|**2026-07-22**|**Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination**|Jiaqi Li et.al.|[2607.19719](http://arxiv.org/abs/2607.19719)|null|
+|**2026-07-21**|**D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models**|Heesang Han et.al.|[2607.19528](http://arxiv.org/abs/2607.19528)|null|
+|**2026-07-21**|**Sarus: Privacy-Preserving Multi-Vendor Perception Fusion via Homomorphic Encryption**|Munawar Hasan et.al.|[2607.19146](http://arxiv.org/abs/2607.19146)|null|
+|**2026-07-20**|**Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform**|Vikram Shree et.al.|[2607.18578](http://arxiv.org/abs/2607.18578)|null|
+|**2026-07-20**|**Distilling Global Traversability Priors for Image-based Affordance Prediction in Off-road Environments**|Matthew Sivaprakasam et.al.|[2607.17984](http://arxiv.org/abs/2607.17984)|null|
+|**2026-07-20**|**Lifelong Localization in Dynamic Indoor Environments Combining Odometry with Sparse Distance Sampling**|Michael M. Bilevich et.al.|[2607.17852](http://arxiv.org/abs/2607.17852)|null|
+|**2026-07-20**|**A2RL V\textsubscript{max}: The A2RL autonomous racing dataset for long-range, high-speed perception and multi-vehicle interaction**|Marvin Klemp et.al.|[2607.17813](http://arxiv.org/abs/2607.17813)|null|
+|**2026-07-20**|**SLAM in Low-Light Environments: Project Report**|Oleh Basystyi et.al.|[2607.17699](http://arxiv.org/abs/2607.17699)|null|
 |**2026-07-19**|**Move First, Commit Later: Selective LiDAR-to-BIM Global Initialization via Sequential Consensus with Symmetry-Aware Abstention**|Yujie Zhang et.al.|[2607.17103](http://arxiv.org/abs/2607.17103)|null|
 |**2026-07-18**|**Points as Tori: Fast Pointwise Signed Distance for Point Clouds**|Nicole Feng et.al.|[2607.16946](http://arxiv.org/abs/2607.16946)|null|
 |**2026-07-18**|**InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization**|Nikolaos Stathoulopoulos et.al.|[2607.16862](http://arxiv.org/abs/2607.16862)|null|
@@ -9477,6 +9493,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**Adaptive Confidence-weighted Expansion for Trustworthy Multi-Omics Multimodal Fusion**|Mohammad Raahemi et.al.|[2607.20742](http://arxiv.org/abs/2607.20742)|null|
+|**2026-07-20**|**CRT*: Conditional Randomization Testing with Heterogeneous External and Unlabeled Data**|Yingjie Zhang et.al.|[2607.17859](http://arxiv.org/abs/2607.17859)|null|
 |**2026-07-18**|**Stochastic stability of master-slave synchronization for dissipative PDEs with Burgers-type nonlinearity and application to data assimilation**|Joaquín Miguez et.al.|[2607.17002](http://arxiv.org/abs/2607.17002)|null|
 |**2026-07-18**|**Constraining the radial decay timescale of solar surface magnetic field through a comparative study of data-assimilative 2D surface flux transport and 3D dynamo models**|Soumyadeep Chatterjee et.al.|[2607.16939](http://arxiv.org/abs/2607.16939)|null|
 |**2026-07-18**|**Projectional continuous data assimilation on the torus: Resonant and kernel-free regimes**|Tsogtgerel Gantumur et.al.|[2607.16827](http://arxiv.org/abs/2607.16827)|null|
@@ -9629,6 +9647,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138](http://arxiv.org/abs/2607.21138)|null|
+|**2026-07-23**|**Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance**|Antonis Savva et.al.|[2607.21089](http://arxiv.org/abs/2607.21089)|null|
+|**2026-07-23**|**Human-Inspired Framework for Robotic Craniotomy: Integrating Multimodal Fusion and Adaptive Trajectory Adjustment**|Renzhen Le et.al.|[2607.21058](http://arxiv.org/abs/2607.21058)|null|
+|**2026-07-22**|**A real-time RGB-D perception pipeline for autonomous impact hammers in mining: self-filtering, rock segmentation and rock-breaking poses generation**|Martín Gallegos et.al.|[2607.20748](http://arxiv.org/abs/2607.20748)|null|
+|**2026-07-22**|**ODeform: Learning Continuous 4D Motion for Shape Deformation with Neural ODEs**|Yordanka Velikova et.al.|[2607.20670](http://arxiv.org/abs/2607.20670)|null|
+|**2026-07-22**|**Axolotl3D: a Unified Framework for Faithful 3D Shape Completion**|Anita Hu et.al.|[2607.20660](http://arxiv.org/abs/2607.20660)|null|
+|**2026-07-22**|**Near-Optimal Dimension Lower Bounds for Single-Vector Embeddings of Maximum Inner Product Similarity**|Rajesh Jayaram et.al.|[2607.20393](http://arxiv.org/abs/2607.20393)|null|
+|**2026-07-22**|**Reconstructing local environments from concise atomistic representations**|Jigyasa Nigam et.al.|[2607.20338](http://arxiv.org/abs/2607.20338)|null|
+|**2026-07-22**|**MR-Compare: A Mixed-Reality Framework for Spatially Grounded Visual Comparison of 3D Gaussian Splatting and Mesh Reconstructions with the Physical Environment**|Changrui Zhu et.al.|[2607.20325](http://arxiv.org/abs/2607.20325)|null|
+|**2026-07-22**|**COBRA2026: a large-scale multicenter pelvic cone-beam computed tomography projection dataset**|Adrian Thummerer et.al.|[2607.20037](http://arxiv.org/abs/2607.20037)|null|
 |**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200](http://arxiv.org/abs/2607.17200)|null|
 |**2026-07-19**|**Move First, Commit Later: Selective LiDAR-to-BIM Global Initialization via Sequential Consensus with Symmetry-Aware Abstention**|Yujie Zhang et.al.|[2607.17103](http://arxiv.org/abs/2607.17103)|null|
 |**2026-07-19**|**Autoregressive B-Rep Shape Generation with Parametric Surfaces**|Dafei Qin et.al.|[2607.17093](http://arxiv.org/abs/2607.17093)|null|
@@ -9783,6 +9811,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**3D-Aware VLMs with Implicit and Explicit Geometries**|Wenhao Li et.al.|[2607.21595](http://arxiv.org/abs/2607.21595)|null|
+|**2026-07-23**|**Expanding Flow Maps**|Sophia Tang et.al.|[2607.21585](http://arxiv.org/abs/2607.21585)|null|
+|**2026-07-23**|**Flow-based Phase-space Tomography of Continuous-variable Quantum States**|Owen Dugan et.al.|[2607.21584](http://arxiv.org/abs/2607.21584)|null|
+|**2026-07-23**|**Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$**|Dawei Li et.al.|[2607.21579](http://arxiv.org/abs/2607.21579)|null|
+|**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
+|**2026-07-23**|**Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity**|Hongnan Ma et.al.|[2607.21573](http://arxiv.org/abs/2607.21573)|null|
+|**2026-07-23**|**Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering**|Zikui Cai et.al.|[2607.21571](http://arxiv.org/abs/2607.21571)|null|
+|**2026-07-23**|**Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling**|Aaron Feller et.al.|[2607.21561](http://arxiv.org/abs/2607.21561)|null|
+|**2026-07-23**|**Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana**|T. Ansah-Narh et.al.|[2607.21559](http://arxiv.org/abs/2607.21559)|null|
+|**2026-07-23**|**MIRROR: Learning from the Other View for Multi-Modal Reasoning**|Wen Ye et.al.|[2607.21552](http://arxiv.org/abs/2607.21552)|null|
 |**2026-07-19**|**Node4All: Learning Node Representation Beyond Datasets**|Dooho Lee et.al.|[2607.17272](http://arxiv.org/abs/2607.17272)|null|
 |**2026-07-19**|**Broadband Content-Adaptive Moiré Meta-spectrometer**|Arnab Ghosh et.al.|[2607.17256](http://arxiv.org/abs/2607.17256)|null|
 |**2026-07-19**|**Distilled Reinforcement Learning for LLM Post-training**|Chen Wang et.al.|[2607.17247](http://arxiv.org/abs/2607.17247)|null|
