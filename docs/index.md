@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.31
+## Updated on 2026.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9513,6 +9513,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Estimating amplitude of matter density fluctuations in solar and supernova models using neutrino flavor evolution**|Caroline Laber-Smith et.al.|[2607.28398](http://arxiv.org/abs/2607.28398)|null|
 |**2026-07-30**|**Stochastic Average Consensus Filtering and Distributed State Estimation for Boolean Control Networks**|Rong Yang et.al.|[2607.28158](http://arxiv.org/abs/2607.28158)|null|
 |**2026-07-29**|**Dynamical Low-Rank Smoothing**|Youssef Marzouk et.al.|[2607.27438](http://arxiv.org/abs/2607.27438)|null|
 |**2026-07-29**|**Dynamical Low-Rank Filters for Data Assimilation**|Yoshihito Kazashi et.al.|[2607.27432](http://arxiv.org/abs/2607.27432)|null|
@@ -9677,6 +9678,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories**|Mengfei Ran et.al.|[2607.28567](http://arxiv.org/abs/2607.28567)|null|
+|**2026-07-30**|**PRICM3: A novel Polarization Ratio framework for three-dimensional CME reconstruction**|Yara De Leo et.al.|[2607.28506](http://arxiv.org/abs/2607.28506)|null|
 |**2026-07-30**|**A Mathematical Framework for Topological Causal Data Analysis**|Hugo Gobato Souto et.al.|[2607.28161](http://arxiv.org/abs/2607.28161)|null|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045](http://arxiv.org/abs/2607.28045)|null|
 |**2026-07-30**|**DM/WFS mis-registration tracking: Implementation and on-sky validation of SPRINT at LBT**|Ben Buky et.al.|[2607.27941](http://arxiv.org/abs/2607.27941)|null|
@@ -9851,6 +9854,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Learning to Trace Seiberg Dualities**|Jonathan J. Heckman et.al.|[2607.28628](http://arxiv.org/abs/2607.28628)|null|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627](http://arxiv.org/abs/2607.28627)|null|
+|**2026-07-30**|**AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis**|Bing Yan et.al.|[2607.28618](http://arxiv.org/abs/2607.28618)|null|
+|**2026-07-30**|**KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models**|Sparsh Roy et.al.|[2607.28608](http://arxiv.org/abs/2607.28608)|null|
+|**2026-07-30**|**Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks**|Ashutosh Kumar Mishra et.al.|[2607.28604](http://arxiv.org/abs/2607.28604)|null|
+|**2026-07-30**|**Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments**|Haomin Qi et.al.|[2607.28591](http://arxiv.org/abs/2607.28591)|null|
+|**2026-07-30**|**MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers**|Md. Mehrab Hossain Opi et.al.|[2607.28589](http://arxiv.org/abs/2607.28589)|null|
+|**2026-07-30**|**$β$ -OPSD: Deriving with Policy Optimization, Training with Self-Distillation**|Jiawei Xu et.al.|[2607.28582](http://arxiv.org/abs/2607.28582)|null|
+|**2026-07-30**|**Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B**|Iliya Mirzaei et.al.|[2607.28576](http://arxiv.org/abs/2607.28576)|null|
+|**2026-07-30**|**Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering**|Junlin Yang et.al.|[2607.28568](http://arxiv.org/abs/2607.28568)|null|
 |**2026-07-30**|**Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata**|Michael Ben Ali et.al.|[2607.28338](http://arxiv.org/abs/2607.28338)|null|
 |**2026-07-30**|**Measuring Distortion in the Empty Regions of Dimensionality Reduction Scatterplots with the Gap Index**|Jaume Ros et.al.|[2607.28324](http://arxiv.org/abs/2607.28324)|null|
 |**2026-07-30**|**Non-partitioned e-detectors for nonparametric sequential change detection**|Aytijhya Saha et.al.|[2607.28322](http://arxiv.org/abs/2607.28322)|null|
