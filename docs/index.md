@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Temperature-tunable spin-wave refraction using superconducting control elements**|Pim H. Vree et.al.|[2608.06555](http://arxiv.org/abs/2608.06555)|null|
+|**2026-08-06**|**Theory of spin-wave transport in ferromagnet-superconductor heterostructures: Negative refraction, perfect imaging and temperature-controlled spin-wave optics**|Tomas T. Osterholt et.al.|[2608.06476](http://arxiv.org/abs/2608.06476)|null|
+|**2026-08-05**|**Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite**|H. Betancourt-Infante et.al.|[2608.05305](http://arxiv.org/abs/2608.05305)|null|
 |**2026-08-05**|**Statistical Considerations in Long COVID Research**|Andrea S. Foulkes et.al.|[2608.04919](http://arxiv.org/abs/2608.04919)|null|
 |**2026-08-05**|**DefoEye: Python-Based Software for Facilitating Time-Series InSAR Analysis of Sentinel-1 Remote-Sensing Data**|Alireza Taheri Dehkordi et.al.|[2608.04915](http://arxiv.org/abs/2608.04915)|null|
 |**2026-08-05**|**Benchmarking Deep Learning Models for Dense Event Classification of Offshore Wind Infrastructure in Sentinel-1 Time Series**|Thorsten Hoeser et.al.|[2608.04706](http://arxiv.org/abs/2608.04706)|null|
@@ -9355,6 +9358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation**|Yang Shen et.al.|[2608.07154](http://arxiv.org/abs/2608.07154)|null|
+|**2026-08-07**|**Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge**|Niclas Meyer et.al.|[2608.07106](http://arxiv.org/abs/2608.07106)|null|
+|**2026-08-07**|**Vernata: Self-Supervised Learning of LiDAR Point Representations**|Oliver Lemke et.al.|[2608.06919](http://arxiv.org/abs/2608.06919)|null|
+|**2026-08-07**|**Unordered Landmark Visual Navigation**|Hao Ren et.al.|[2608.06833](http://arxiv.org/abs/2608.06833)|null|
+|**2026-08-06**|**UQ-Loc: Uncertainty-Aware LiDAR Scene Coordinate Regression**|Jacek Komorowski et.al.|[2608.06307](http://arxiv.org/abs/2608.06307)|null|
+|**2026-08-06**|**Iterate or Widen? When Test-Time Refinement Helps LiDAR Scene Completion: A Controlled Study of Evidence Geometry, Training Coverage, and Compute**|Shijie Hao et.al.|[2608.06014](http://arxiv.org/abs/2608.06014)|null|
+|**2026-08-06**|**Harnessing thermo-optic dynamics for frequency-agile soliton microcombs**|Yang Liu et.al.|[2608.05932](http://arxiv.org/abs/2608.05932)|null|
+|**2026-08-06**|**Iterative Hybrid Discrete-Continuous Viewpoint Planning for UAV Photogrammetry**|Alan Grech et.al.|[2608.05718](http://arxiv.org/abs/2608.05718)|null|
+|**2026-08-06**|**G $^2$ ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation**|Puyuan Zhang et.al.|[2608.05704](http://arxiv.org/abs/2608.05704)|null|
+|**2026-08-06**|**KILVO: Kinematic-Inertial-LiDAR-Visual Odometry with Robust Multimodal Adaptation for Humanoid Robots**|Jixin Gao et.al.|[2608.05647](http://arxiv.org/abs/2608.05647)|null|
 |**2026-08-05**|**Talk2Sensors: 3D Visual Grounding in Autonomous Driving via Sensor-Adaptive Physical Cue Matching**|Runwei Guan et.al.|[2608.04568](http://arxiv.org/abs/2608.04568)|null|
 |**2026-08-04**|**TriCLE: Tri-Modal Vision-Language Reasoning for Edge-Deployed Fine-Grained Clustering**|Kishor Datta Gupta et.al.|[2608.04175](http://arxiv.org/abs/2608.04175)|null|
 |**2026-08-04**|**Radar4D-VLM: Proposal-Grounded Temporal 4D Radar Reasoning Across Frozen Language Models**|Jiaju Han et.al.|[2608.04130](http://arxiv.org/abs/2608.04130)|null|
@@ -9533,6 +9546,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Efficient three-dimensional variational data assimilation of multi-plane PIV data**|Uttam Cadambi Padmanaban et.al.|[2608.07469](http://arxiv.org/abs/2608.07469)|null|
+|**2026-08-06**|**Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Video Flow-matching**|Dibyajyoti Chakraborty et.al.|[2608.05103](http://arxiv.org/abs/2608.05103)|null|
 |**2026-08-04**|**Observation of quantum nonclassicality without freedom of choice in a minimal causal network**|Ya Xiao et.al.|[2608.03552](http://arxiv.org/abs/2608.03552)|null|
 |**2026-08-04**|**AirKey: Multimodal Acoustic-Assisted WiFi Sensing for Zero-Training Robust PIN Inference**|BaiChuan Wu et.al.|[2608.03151](http://arxiv.org/abs/2608.03151)|null|
 |**2026-08-03**|**Cardiovascular Digital Twins from Physics Based to Data Driven Approaches**|Emmanuel Lwele et.al.|[2608.02135](http://arxiv.org/abs/2608.02135)|null|
@@ -9704,6 +9719,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**H2AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation**|Jia Wang et.al.|[2608.07340](http://arxiv.org/abs/2608.07340)|null|
+|**2026-08-07**|**"Operator, can you hear me?" A Faithful Line into the UNISOC Baseband**|Eduard Vlad et.al.|[2608.07143](http://arxiv.org/abs/2608.07143)|null|
+|**2026-08-07**|**Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge**|Niclas Meyer et.al.|[2608.07106](http://arxiv.org/abs/2608.07106)|null|
+|**2026-08-07**|**M2-SMap: Memory-Efficient Semantic Mapping with Hierarchical Multi-Model Representation**|QiYing Deng et.al.|[2608.07074](http://arxiv.org/abs/2608.07074)|null|
+|**2026-08-07**|**Cross-View Action Consistency for Camera-Robust Vision-Language-Action Policies**|Bingqi Huang et.al.|[2608.06965](http://arxiv.org/abs/2608.06965)|null|
+|**2026-08-07**|**Explicit, Not Longer: What Makes Epistemic Stance Survive Memory Compression**|Alex Kwon et.al.|[2608.06953](http://arxiv.org/abs/2608.06953)|null|
+|**2026-08-07**|**Vernata: Self-Supervised Learning of LiDAR Point Representations**|Oliver Lemke et.al.|[2608.06919](http://arxiv.org/abs/2608.06919)|null|
+|**2026-08-06**|**Toward surface-based registration of a virtual preoperative cutting guide onto the mandible for reconstruction surgery**|Yue Yang et.al.|[2608.06599](http://arxiv.org/abs/2608.06599)|null|
+|**2026-08-06**|**UQ-Loc: Uncertainty-Aware LiDAR Scene Coordinate Regression**|Jacek Komorowski et.al.|[2608.06307](http://arxiv.org/abs/2608.06307)|null|
+|**2026-08-06**|**Gradient Descent on Point Clouds and Applications in Learned Operator Correction**|Andreas Hauptmann et.al.|[2608.06267](http://arxiv.org/abs/2608.06267)|null|
 |**2026-08-05**|**Poisson Flow and Wasserstein Registration of Trees**|Moo K. Chung et.al.|[2608.04770](http://arxiv.org/abs/2608.04770)|null|
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-05**|**Talk2Sensors: 3D Visual Grounding in Autonomous Driving via Sensor-Adaptive Physical Cue Matching**|Runwei Guan et.al.|[2608.04568](http://arxiv.org/abs/2608.04568)|null|
@@ -9890,6 +9915,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation**|Youjun Zhao et.al.|[2608.07463](http://arxiv.org/abs/2608.07463)|null|
+|**2026-08-07**|**CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG**|Gyuwan Kim et.al.|[2608.07458](http://arxiv.org/abs/2608.07458)|null|
+|**2026-08-07**|**Against Explainable Artificial Intelligence In Law: Why Justifiable Ai Matters. A Credit Scoring Example**|Łukasz Górski et.al.|[2608.07452](http://arxiv.org/abs/2608.07452)|null|
+|**2026-08-07**|**Permutation invariant neural network prediction of vacancy formation under deformation and varying chemical environment in FCC high entropy alloys**|Tanvir Sohail et.al.|[2608.07445](http://arxiv.org/abs/2608.07445)|null|
+|**2026-08-07**|**RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting**|Md Tarek Hassan et.al.|[2608.07444](http://arxiv.org/abs/2608.07444)|null|
+|**2026-08-07**|**Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers**|Ali Janati et.al.|[2608.07436](http://arxiv.org/abs/2608.07436)|null|
+|**2026-08-07**|**Wasserstein Policy Gradient for Entropy-Regularized Linear-Quadratic Control**|Zhaoyu Zhu et.al.|[2608.07433](http://arxiv.org/abs/2608.07433)|null|
+|**2026-08-07**|**Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits**|Elena Dumitrescu et.al.|[2608.07430](http://arxiv.org/abs/2608.07430)|null|
+|**2026-08-07**|**Cloud-Boosted Low-Compute Multi-Channel Speech Enhancement**|Xulin Fan et.al.|[2608.07423](http://arxiv.org/abs/2608.07423)|null|
+|**2026-08-07**|**Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction**|Xinyi Li et.al.|[2608.07420](http://arxiv.org/abs/2608.07420)|null|
 |**2026-08-05**|**SparseDitto: Customizing GPU Kernels for Different Sparsity Patterns with LLM-Based Agentic System**|Shiyang Li et.al.|[2608.05033](http://arxiv.org/abs/2608.05033)|null|
 |**2026-08-05**|**Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers**|Dmytro Knopov et.al.|[2608.05025](http://arxiv.org/abs/2608.05025)|null|
 |**2026-08-05**|**Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load**|Thomas Bartz-Beielstein et.al.|[2608.05018](http://arxiv.org/abs/2608.05018)|null|
