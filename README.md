@@ -1,4 +1,4 @@
-## Updated on 2026.08.17
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1394,7 +1394,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## SFM
 
@@ -2418,7 +2418,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -5377,7 +5377,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5928,7 +5928,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Image Matching
 
@@ -7305,7 +7305,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## NeRF
 
@@ -9176,12 +9176,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## InSAR & Time-series Deformation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation**|Jakob Schattenfroh et.al.|[2608.18867](http://arxiv.org/abs/2608.18867)|null|
+|**2026-08-19**|**SED-FOD: Scattering-Aware Expert Decomposition for Few-Shot Cross-Sensor SAR Object Detection**|Shu Yang et.al.|[2608.18755](http://arxiv.org/abs/2608.18755)|null|
+|**2026-08-18**|**GenEx: A Graph-Based Representational Paradigm for SARS-CoV-2 Variant Detection via Codon Co-occurrence Networks**|Arefin Amin et.al.|[2608.18238](http://arxiv.org/abs/2608.18238)|null|
+|**2026-08-18**|**Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors**|Guilherme Iablonovski et.al.|[2608.17822](http://arxiv.org/abs/2608.17822)|null|
+|**2026-08-18**|**To Remove or Not to Remove Clouds: A Comparative Analysis and Fusion of Raw SAR and Synthetic NDWI for Overcast Water Segmentation**|Saleh Sakib Ahmed et.al.|[2608.17398](http://arxiv.org/abs/2608.17398)|null|
+|**2026-08-18**|**FlowShield: cryptocurrency anti-money laundering with transaction semantics parsing and fund flow tracking**|Qishuang Fu et.al.|[2608.17355](http://arxiv.org/abs/2608.17355)|null|
+|**2026-08-18**|**Task-Based Evaluation of Raw Radar Data Compression: A Pre-Registered Study of Where Classical Codecs Fail to Preserve Target Detection, and Why**|Eric Michael Chrabot et.al.|[2608.17269](http://arxiv.org/abs/2608.17269)|null|
+|**2026-08-16**|**MITE-Net: SWaP-Optimized 4K Video Tiny Target Perception for Embodied Edge SAR**|Mingshuo Xu et.al.|[2608.15830](http://arxiv.org/abs/2608.15830)|null|
+|**2026-08-16**|**Uncovering the deformation mechanism of glasses during indentation through high-resolution X-ray scattering**|M. Faizal Ussama Jalaludeen et.al.|[2608.15675](http://arxiv.org/abs/2608.15675)|null|
+|**2026-08-15**|**Detecting Money Laundering in Rwandan Mobile Money: A Machine Learning Framework**|Emmanuel Nahimana et.al.|[2608.15447](http://arxiv.org/abs/2608.15447)|null|
 |**2026-08-12**|**Transferable Above-Ground Biomass (AGB) Estimation Model from Multi-Sensor Data with Sparse Field Calibration**|Pann Thinzar Seint et.al.|[2608.11638](http://arxiv.org/abs/2608.11638)|null|
 |**2026-08-11**|**Hardware-Aware Deployment of Joint SAR Compression and Despeckling on FPGA**|Cédric Léonard et.al.|[2608.11271](http://arxiv.org/abs/2608.11271)|null|
 |**2026-08-11**|**SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring**|Moti Rattan Gupta et.al.|[2608.11142](http://arxiv.org/abs/2608.11142)|null|
@@ -9354,7 +9364,7 @@
 |**2026-01-19**|**VAST: Vascular Flow Analysis and Segmentation for Intracranial 4D Flow MRI**|Abhishek Singh et.al.|[2601.13393](http://arxiv.org/abs/2601.13393)|null|
 |**2025-12-30**|**A multimodal Transformer for InSAR-based ground deformation forecasting with cross-site generalization across Europe**|Wendong Yao et.al.|[2512.23906](http://arxiv.org/abs/2512.23906)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Mining Subsidence & Geohazard
 
@@ -9387,12 +9397,22 @@
 |**2020-06-06**|**A precise machine learning aided algorithm for land subsidence or upheave prediction from GNSS time series**|M. Kiani et.al.|[2006.03772](http://arxiv.org/abs/2006.03772)|null|
 |**2020-05-13**|**Deep Learning Framework for Detecting Ground Deformation in the Built Environment using Satellite InSAR data**|Nantheera Anantrasirichai et.al.|[2005.03221](http://arxiv.org/abs/2005.03221)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## LiDAR & UAV Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Autonomous Agricultural Tractor: Integrated Weed Detection and LiDAR Navigation for Precision Paddy Farming**|Benjamin Merryman-Smith et.al.|[2608.19004](http://arxiv.org/abs/2608.19004)|null|
+|**2026-08-19**|**RVLoss: Runoff Vote Loss for Self-Supervised LiDAR Scene Flow Estimation**|Shiming Wang et.al.|[2608.18864](http://arxiv.org/abs/2608.18864)|null|
+|**2026-08-18**|**LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks**|Amod Ashtekar et.al.|[2608.18396](http://arxiv.org/abs/2608.18396)|null|
+|**2026-08-18**|**Spatially explicit feature importance for building height estimation using research-access high-resolution SAR and optical sensors**|Guilherme Iablonovski et.al.|[2608.17822](http://arxiv.org/abs/2608.17822)|null|
+|**2026-08-17**|**Rapid Debris-Volume Estimation from Post-Hurricane Aerial Imagery**|Kooshan Amini et.al.|[2608.17165](http://arxiv.org/abs/2608.17165)|null|
+|**2026-08-17**|**Terrain-Aware Local Path Planning with Global DEM Data Integration for Autonomous UGV Navigation**|Devender Singh et.al.|[2608.17038](http://arxiv.org/abs/2608.17038)|null|
+|**2026-08-17**|**How Sampling Strategy Affects Imbalance Mitigation in LiDAR Segmentation: A Study of Structured vs. Random Point-Based Architectures**|Antonis Savva et.al.|[2608.16673](http://arxiv.org/abs/2608.16673)|null|
+|**2026-08-17**|**Towards Real-Time and Adaptable LiDAR Scene Completion**|Azhar Hussian et.al.|[2608.16490](http://arxiv.org/abs/2608.16490)|null|
+|**2026-08-17**|**RISE: Roadside Infrastructure Sequence Understanding across 3D Tracking and Structured Vision-Language Reasoning**|Yanbo Jiang et.al.|[2608.16480](http://arxiv.org/abs/2608.16480)|null|
+|**2026-08-17**|**Robot-Body-Aware Traversal Risk Graph Planning for Wheeled-Legged Robots in Complex Terrain**|Zhiqiao Guo et.al.|[2608.16433](http://arxiv.org/abs/2608.16433)|null|
 |**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|null|
 |**2026-08-13**|**Validation of Smartphone-Based Photogrammetric 3D Body Scanning for Automated Anthropometric Measurements Compared with a Commercial Depth-Sensor-Based Body Scanner**|Ruting Cheng et.al.|[2608.12827](http://arxiv.org/abs/2608.12827)|null|
 |**2026-08-12**|**Transferable Above-Ground Biomass (AGB) Estimation Model from Multi-Sensor Data with Sparse Field Calibration**|Pann Thinzar Seint et.al.|[2608.11638](http://arxiv.org/abs/2608.11638)|null|
@@ -9587,12 +9607,19 @@
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
 |**2026-04-03**|**RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection**|Cheng Lu et.al.|[2604.02903](http://arxiv.org/abs/2604.02903)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Multi-source Data Fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**Transportable Causal Effect Estimation across Networks under Interference**|Xiaojing Du et.al.|[2608.18932](http://arxiv.org/abs/2608.18932)|null|
+|**2026-08-18**|**General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting**|Mattis thor Straten et.al.|[2608.17440](http://arxiv.org/abs/2608.17440)|null|
+|**2026-08-15**|**Learning Sequential Mobility Choice: A Review of Route and Activity Choice through Inverse Reinforcement and Imitation Learning**|Tien Mai et.al.|[2608.15339](http://arxiv.org/abs/2608.15339)|null|
+|**2026-08-15**|**Generative data assimilation highlights fronts as key regulators of ocean energy cascade**|Scott A. Martin et.al.|[2608.14955](http://arxiv.org/abs/2608.14955)|null|
+|**2026-08-14**|**Regularity-informed data assimilation: A hierarchical Bayesian approach to ensemble Kalman filtering for hyperbolic conservation laws**|Jan Glaubitz et.al.|[2608.14840](http://arxiv.org/abs/2608.14840)|null|
+|**2026-08-13**|**Iterative Refinement Diffusion for Super-Resolved Data Assimilation of Multiscale Physical Systems**|Mrigank Dhingra et.al.|[2608.14744](http://arxiv.org/abs/2608.14744)|null|
+|**2026-08-12**|**A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation**|Muhammad Jalil Ahmad et.al.|[2608.13614](http://arxiv.org/abs/2608.13614)|null|
 |**2026-08-12**|**Long-window 4DVar for reanalysis using a differentiable weather model**|Gregory J. Hakim et.al.|[2608.11515](http://arxiv.org/abs/2608.11515)|null|
 |**2026-08-08**|**A Physics-Informed Neural Network Approach to Multiphysics Continuum Modeling of Cancer Growth via Chemo-fluid Coupling**|Celia Taboada et.al.|[2608.10014](http://arxiv.org/abs/2608.10014)|null|
 |**2026-08-07**|**Efficient three-dimensional variational data assimilation of multi-plane PIV data**|Uttam Cadambi Padmanaban et.al.|[2608.07469](http://arxiv.org/abs/2608.07469)|null|
@@ -9734,7 +9761,7 @@
 |**2026-03-27**|**The Ice Sheet State and Parameter Estimator (ICESEE) Library (v1.0.0): Ensemble Kalman Filtering for Ice Sheet Models**|Brian Kyanjo et.al.|[2603.26947](http://arxiv.org/abs/2603.26947)|null|
 |**2026-03-26**|**Transdimensional Data Assimilation for dynamic model selection problems**|Márk Somogyvári et.al.|[2603.25318](http://arxiv.org/abs/2603.25318)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Point Cloud & 3D Processing
 
@@ -9751,7 +9778,7 @@
 |**2026-03-06**|**KISS-IMU: Self-supervised Inertial Odometry with Motion-balanced Learning and Uncertainty-aware Inference**|Jiwon Choi et.al.|[2603.06205](http://arxiv.org/abs/2603.06205)|null|
 |**2026-03-06**|**Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting**|Semin Bae et.al.|[2603.06061](http://arxiv.org/abs/2603.06061)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## AI & PINNs in Remote Sensing
 
@@ -9768,12 +9795,22 @@
 |**2026-04-07**|**Probing the Factorized Island Branch with the Capacity of Entanglement in JT Gravity**|Raúl Arias et.al.|[2604.05815](http://arxiv.org/abs/2604.05815)|null|
 |**2026-04-07**|**Physics-Informed Neural Optimal Control for Precision Immobilization Technique in Emergency Scenarios**|Yangye Jiang et.al.|[2604.05758](http://arxiv.org/abs/2604.05758)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## Point Cloud Processing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views**|Ayush Kaura et.al.|[2608.19188](http://arxiv.org/abs/2608.19188)|null|
+|**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734](http://arxiv.org/abs/2608.18734)|null|
+|**2026-08-19**|**PCQA-R1: Advancing Generalized 3D Point Cloud Quality Assessment with Reinforcement Learning**|Kangning Ye et.al.|[2608.18627](http://arxiv.org/abs/2608.18627)|null|
+|**2026-08-19**|**COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts**|Yanghong Lin et.al.|[2608.18479](http://arxiv.org/abs/2608.18479)|null|
+|**2026-08-18**|**LiDAR-Derived Surface Priors for Multimodal Sensing-Assisted NLoS Beam Search in Indoor 60-GHz Networks**|Amod Ashtekar et.al.|[2608.18396](http://arxiv.org/abs/2608.18396)|null|
+|**2026-08-18**|**Cacheable by Design? Training Mixture-of-Experts Routers for Locality Against the Edge Memory-Bandwidth Wall: A Pre-Registered Negative Result with a Systems Measurement Study**|Shriniwas Ramesh Suram et.al.|[2608.18261](http://arxiv.org/abs/2608.18261)|null|
+|**2026-08-18**|**Transferable Fast Calorimeter Shower Generation via Multi-Geometry Pre-training**|Thorsten Buss et.al.|[2608.18233](http://arxiv.org/abs/2608.18233)|null|
+|**2026-08-18**|**GenRec: Knowing Where to Reconstruct and Where to Generate**|Ata Çelen et.al.|[2608.17832](http://arxiv.org/abs/2608.17832)|null|
+|**2026-08-19**|**Scale Matters: Adaptive Granularity Selection for Cross-Species 3D Plant Organ Segmentation**|Carla Salazar et.al.|[2608.17803](http://arxiv.org/abs/2608.17803)|null|
+|**2026-08-18**|**Electromagnetic World Model for 6G: A Unified Framework for Joint Environment Reconstruction and Channel Prediction**|Yizhu Zhao et.al.|[2608.17769](http://arxiv.org/abs/2608.17769)|null|
 |**2026-08-13**|**Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning**|Zheyu Zhuang et.al.|[2608.13422](http://arxiv.org/abs/2608.13422)|null|
 |**2026-08-13**|**Predictive Relative-Velocity Steering for Safe Robotic Manipulator Teleoperation in Dynamic Environments**|Changhao Hu et.al.|[2608.13284](http://arxiv.org/abs/2608.13284)|null|
 |**2026-08-13**|**Sampling Luck Masquerades as Allocation Gain: Auditing Test-Time Budget Allocation for Neural Combinatorial Optimization**|Jinhyung Bae et.al.|[2608.13087](http://arxiv.org/abs/2608.13087)|null|
@@ -9976,12 +10013,22 @@
 |**2026-04-06**|**PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding**|Siyuan Liu et.al.|[2604.04933](http://arxiv.org/abs/2604.04933)|null|
 |**2026-04-06**|**ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture**|Xu Mingze et.al.|[2604.04820](http://arxiv.org/abs/2604.04820)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 ## AI in Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**SiNMULI: Novel Signed Network Approach for Malicious URL Identification**|Avijit Gayen et.al.|[2608.19190](http://arxiv.org/abs/2608.19190)|null|
+|**2026-08-19**|**PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views**|Ayush Kaura et.al.|[2608.19188](http://arxiv.org/abs/2608.19188)|null|
+|**2026-08-19**|**Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning**|Zhu Zhang et.al.|[2608.19181](http://arxiv.org/abs/2608.19181)|null|
+|**2026-08-19**|**Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture**|Yuandong Pan et.al.|[2608.19177](http://arxiv.org/abs/2608.19177)|null|
+|**2026-08-19**|**Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention**|Sotirios P. Chatzis et.al.|[2608.19171](http://arxiv.org/abs/2608.19171)|null|
+|**2026-08-19**|**Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training**|Zachary Speck et.al.|[2608.19168](http://arxiv.org/abs/2608.19168)|null|
+|**2026-08-19**|**Interpretable AI predicts a 2026 summer dry anomaly in central China**|Anran Wang et.al.|[2608.19163](http://arxiv.org/abs/2608.19163)|null|
+|**2026-08-19**|**FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems**|Md Kibria Saroare et.al.|[2608.19155](http://arxiv.org/abs/2608.19155)|null|
+|**2026-08-19**|**Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions**|Tomasz R. Bielecki et.al.|[2608.19151](http://arxiv.org/abs/2608.19151)|null|
+|**2026-08-19**|**Network-Scale Road Disruption from Liquefaction in Cascadia Subduction Zone Earthquakes**|M. D. Sanger et.al.|[2608.19143](http://arxiv.org/abs/2608.19143)|null|
 |**2026-08-13**|**Defensive Boosting for Online Probabilistic Forecasting**|Georgy Noarov et.al.|[2608.13554](http://arxiv.org/abs/2608.13554)|null|
 |**2026-08-13**|**Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure**|Mingyuan Zhang et.al.|[2608.13549](http://arxiv.org/abs/2608.13549)|null|
 |**2026-08-13**|**LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure**|Fanfei Li et.al.|[2608.13545](http://arxiv.org/abs/2608.13545)|null|
@@ -10193,7 +10240,7 @@
 |**2026-04-07**|**Gym-Anything: Turn any Software into an Agent Environment**|Pranjal Aggarwal et.al.|[2604.06126](http://arxiv.org/abs/2604.06126)|null|
 |**2026-04-07**|**A Large-Scale Empirical Comparison of Meta-Learners and Causal Forests for Heterogeneous Treatment Effect Estimation in Marketing Uplift Modeling**|Aman Singh et.al.|[2604.06123](http://arxiv.org/abs/2604.06123)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260821>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
