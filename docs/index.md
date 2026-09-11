@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.07
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-08**|**Infra-Bench CLS: A Global, Open-Source Benchmark for Critical Infrastructure Classification with Earth Observation Foundation Models**|Justin Guthrie et.al.|[2609.09482](http://arxiv.org/abs/2609.09482)|null|
+|**2026-09-08**|**Kalman Filtering and Smoothing for Improving Precision in Horvitz--Thompson Estimation of Infectious Disease Prevalence**|Jeongjin Lee et.al.|[2609.09325](http://arxiv.org/abs/2609.09325)|null|
+|**2026-09-07**|**Cross-modal learning for SAR target recognition using optical vision foundation models**|Lucas Hirsch et.al.|[2609.07753](http://arxiv.org/abs/2609.07753)|null|
+|**2026-09-06**|**Enabling Emergency Communication via Semantic Radar-Centric ISAC**|Mohaimin Al Barat et.al.|[2609.06801](http://arxiv.org/abs/2609.06801)|null|
+|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|null|
+|**2026-09-04**|**SAR and InSAR Change Detection with Quantum Generative Models**|Samwel K. Sekwao et.al.|[2609.05313](http://arxiv.org/abs/2609.05313)|null|
+|**2026-09-04**|**Symptom clusters in Long COVID in the UK: prospective community-based cohort study using unsupervised machine learning**|Jasmine Aherne et.al.|[2609.05213](http://arxiv.org/abs/2609.05213)|null|
+|**2026-09-04**|**3D Radar Imaging from the UAV Nadir**|S. Hamed Javadi et.al.|[2609.04848](http://arxiv.org/abs/2609.04848)|null|
+|**2026-09-04**|**Bridging Modalities and Tasks: A Unified Hierarchical ViT for SAR-to-Optical Translation and Semantic Segmentation**|Siyuan Liu et.al.|[2609.04726](http://arxiv.org/abs/2609.04726)|null|
 |**2026-09-03**|**Exploring the Potential of Contrastive Language-Image Pre-training for Multi-Source Remote Sensing Data**|Xiangyang Miao et.al.|[2609.03391](http://arxiv.org/abs/2609.03391)|null|
 |**2026-09-02**|**ProSR: Semantic-Prototype-Guided Discrete Modeling for Physically Consistent SAR Super-Resolution**|Byoungwoo Kim et.al.|[2609.02377](http://arxiv.org/abs/2609.02377)|null|
 |**2026-09-02**|**Lightweight Adaptation of General-Purpose VLMs for Multispectral and SAR Image Understanding**|Shanji Liu et.al.|[2609.02187](http://arxiv.org/abs/2609.02187)|null|
@@ -9365,6 +9374,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement**|Kun Hu et.al.|[2609.05325](http://arxiv.org/abs/2609.05325)|null|
 |**2026-08-29**|**SGE: Semantically-Guided Exploration for Unstructured Environments via Image-Space Waypoint Sampling**|Christopher Tatsch et.al.|[2608.29315](http://arxiv.org/abs/2608.29315)|null|
 |**2026-08-27**|**DP-JMRNet: A Deep Unfolding Network for Differential Phase Preservation in Sparse Bitemporal SAR Reconstruction**|Juncheng Bao et.al.|[2608.26605](http://arxiv.org/abs/2608.26605)|null|
 |**2026-07-18**|**Satellite-based emissions estimate indicates progress toward China's methane mitigation goals**|Ziting Huang et.al.|[2607.16931](http://arxiv.org/abs/2607.16931)|null|
@@ -9398,6 +9408,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**MMGait: Benchmarking and Unifying Gait Recognition across Heterogeneous Modalities**|Saihui Hou et.al.|[2609.11601](http://arxiv.org/abs/2609.11601)|null|
+|**2026-09-10**|**Lightweight LiDAR-Based Cone Detection Framework Using Random Forest for Formula Student Driverless**|Márk Mező-Kerekes et.al.|[2609.11527](http://arxiv.org/abs/2609.11527)|null|
+|**2026-09-10**|**Optimizing GEDI Simulator Configuration for European Temperate Forests**|Selim Behloul et.al.|[2609.11440](http://arxiv.org/abs/2609.11440)|null|
+|**2026-09-10**|**Toward Interpretable Multimodal Fusion: Heat Conduction Modeling for Hyperspectral and LiDAR Joint Classification**|Kan Wei et.al.|[2609.11040](http://arxiv.org/abs/2609.11040)|null|
+|**2026-09-09**|**Odometer-Agnostic Drift Correction Using OpenStreetMap Lane Geometry**|Joaquin Caballero et.al.|[2609.10336](http://arxiv.org/abs/2609.10336)|null|
+|**2026-09-09**|**Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge**|Samed Doğan et.al.|[2609.10322](http://arxiv.org/abs/2609.10322)|null|
+|**2026-09-09**|**Robust Beam Prediction for V2X Networks with Multi-Modal Sensing**|Chen Shang et.al.|[2609.10200](http://arxiv.org/abs/2609.10200)|null|
+|**2026-09-09**|**CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids**|Toomas Tahves et.al.|[2609.09881](http://arxiv.org/abs/2609.09881)|null|
+|**2026-09-08**|**Spheriverse: 3D Scene Understanding from Spherical Observations in the Wild**|Fei Teng et.al.|[2609.09012](http://arxiv.org/abs/2609.09012)|null|
+|**2026-09-08**|**DXPR: Depth-Based Vision-LiDAR Cross-Modal Place Recognition Using Vision Foundation Models**|Yungsoo Han et.al.|[2609.09005](http://arxiv.org/abs/2609.09005)|null|
 |**2026-09-03**|**Automated Weld Seam Recognition and 3D Mapping for Robotic Post Processing Using Photogrammetry and Semantic Segmentation**|Augustin Raju et.al.|[2609.03970](http://arxiv.org/abs/2609.03970)|null|
 |**2026-09-03**|**A comparative study on the accuracy & repeatability of mobile robotic platforms for the delivery of precision NDE measurement**|SeyedMohammadAmin Nabi Pour et.al.|[2609.03794](http://arxiv.org/abs/2609.03794)|null|
 |**2026-09-03**|**RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback**|Gabriel Manuel Garcia et.al.|[2609.03720](http://arxiv.org/abs/2609.03720)|null|
@@ -9633,6 +9653,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Lightweight LiDAR-Based Cone Detection Framework Using Random Forest for Formula Student Driverless**|Márk Mező-Kerekes et.al.|[2609.11527](http://arxiv.org/abs/2609.11527)|null|
+|**2026-09-10**|**A Dynamic Fusion Large Language Model for Traffic Flow Prediction**|Xue Qiu et.al.|[2609.11314](http://arxiv.org/abs/2609.11314)|null|
+|**2026-09-10**|**LAION-Mobile: Evaluating Deepfake Detectors On One Million Smartphone Photos**|Achim von Stryk et.al.|[2609.11134](http://arxiv.org/abs/2609.11134)|null|
+|**2026-09-10**|**Full-window branch discovery and loss-selected EnKF continuation for data assimilation**|Angxiu Ni et.al.|[2609.10949](http://arxiv.org/abs/2609.10949)|null|
+|**2026-09-10**|**Why we should condition denoising diffusion generative models on windows of past observations**|Matthias Morzfeld et.al.|[2609.10924](http://arxiv.org/abs/2609.10924)|null|
+|**2026-09-09**|**Preserving Structure in Variational Data Assimilation of Hyperbolic Conservation Laws via Regularization**|Yao Xiao et.al.|[2609.10906](http://arxiv.org/abs/2609.10906)|null|
+|**2026-09-09**|**Dynamic Reduced-Order Data Assimilation from Sparse Velocity Measurements**|Mauricio Portilla et.al.|[2609.10497](http://arxiv.org/abs/2609.10497)|null|
+|**2026-09-09**|**Ensembling LLMs for AI-Augmented Cybersecurity Software Requirements Generation**|Santiago Perez-Acuna et.al.|[2609.10316](http://arxiv.org/abs/2609.10316)|null|
+|**2026-09-08**|**Steering Diffusion Priors with Sparse Observations for High-Resolution Temperature Downscaling**|Anirudh Avireddy et.al.|[2609.09247](http://arxiv.org/abs/2609.09247)|null|
+|**2026-09-08**|**Quantity, quality, and timing: Guiding glacier data assimilation strategies in the high Arctic**|Wenxue Cao et.al.|[2609.08767](http://arxiv.org/abs/2609.08767)|null|
 |**2026-09-03**|**WeatherNext 3: Increasing resolution and performance of global weather models with raw observations**|Stephan Rasp et.al.|[2609.03582](http://arxiv.org/abs/2609.03582)|null|
 |**2026-09-02**|**Distilling deep optical flow stereo methods to retrieve dense three-dimensional wind fields**|Thomas J. Vandal et.al.|[2609.03100](http://arxiv.org/abs/2609.03100)|null|
 |**2026-09-02**|**Continuous data assimilation in steady Navier-Stokes equations with unknown viscosity: robust and efficient solvers and fast parameter recovery**|L. Rebholz et.al.|[2609.02862](http://arxiv.org/abs/2609.02862)|null|
@@ -9838,6 +9868,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits**|John Bonnici et.al.|[2609.11650](http://arxiv.org/abs/2609.11650)|null|
+|**2026-09-10**|**UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound**|Weiying Chen et.al.|[2609.11506](http://arxiv.org/abs/2609.11506)|null|
+|**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Qianliang Wu et.al.|[2609.11472](http://arxiv.org/abs/2609.11472)|null|
+|**2026-09-10**|**Optimizing GEDI Simulator Configuration for European Temperate Forests**|Selim Behloul et.al.|[2609.11440](http://arxiv.org/abs/2609.11440)|null|
+|**2026-09-10**|**DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging**|Boya Wang et.al.|[2609.11380](http://arxiv.org/abs/2609.11380)|null|
+|**2026-09-10**|**R4Tun: LLM-guided adaptive segmental tunnel lining segmentation in point clouds**|Xinghui Tao et.al.|[2609.11360](http://arxiv.org/abs/2609.11360)|null|
+|**2026-09-10**|**Fast and Accurate Monomodal 3D High Resolution Deep Registration of Drosophila Larval Brain Volumes**|Daniel Reisenbüchler et.al.|[2609.11240](http://arxiv.org/abs/2609.11240)|null|
+|**2026-09-10**|**ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation**|Jiarui Liu et.al.|[2609.11129](http://arxiv.org/abs/2609.11129)|null|
+|**2026-09-09**|**No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers**|Zehua Zhang et.al.|[2609.10854](http://arxiv.org/abs/2609.10854)|null|
+|**2026-09-09**|**Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration**|Mohammadjavad Matinkia et.al.|[2609.10789](http://arxiv.org/abs/2609.10789)|null|
 |**2026-09-03**|**A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle**|Gustavo Claudio Karl Couto et.al.|[2609.04147](http://arxiv.org/abs/2609.04147)|null|
 |**2026-09-03**|**Probing the Geometry of Viable Froggatt-Nielsen-like Flavor Textures**|Davide Meloni et.al.|[2609.03812](http://arxiv.org/abs/2609.03812)|null|
 |**2026-09-03**|**Robot Aware Computational Design of Object Specific Passive Grippers for Additive Manufacturing**|Abdullah Yahya Abdullah Omaisan et.al.|[2609.03761](http://arxiv.org/abs/2609.03761)|null|
@@ -10084,6 +10124,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Ramiro Valdes Jara et.al.|[2609.11648](http://arxiv.org/abs/2609.11648)|null|
+|**2026-09-10**|**ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding**|Luca Della Libera et.al.|[2609.11642](http://arxiv.org/abs/2609.11642)|null|
+|**2026-09-10**|**LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics**|Mariia Baranova et.al.|[2609.11639](http://arxiv.org/abs/2609.11639)|null|
+|**2026-09-10**|**Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation**|Jintao Zhang et.al.|[2609.11638](http://arxiv.org/abs/2609.11638)|null|
+|**2026-09-10**|**Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scrape-Off Layer of Stellarator Devices**|J. Gallego et.al.|[2609.11628](http://arxiv.org/abs/2609.11628)|null|
+|**2026-09-10**|**Distributed Optimization of Modular Production Systems using Model-based Reinforcement Learning with Inverse Models**|Andreas Schwung et.al.|[2609.11615](http://arxiv.org/abs/2609.11615)|null|
+|**2026-09-10**|**Deep Learning of Robust Market Making under Regime-Switching Order Flow**|Felipe Moret et.al.|[2609.11614](http://arxiv.org/abs/2609.11614)|null|
+|**2026-09-10**|**Identifiability of Nonnegative Tensor Decompositions via Positive Scattering**|Haoming Wang et.al.|[2609.11606](http://arxiv.org/abs/2609.11606)|null|
+|**2026-09-10**|**Breaking Water at Graphene Defects**|Samuel G. H. Brookes et.al.|[2609.11602](http://arxiv.org/abs/2609.11602)|null|
+|**2026-09-10**|**A distribution-free certification framework for trustworthy crash-severity prediction**|Amir Rafe et.al.|[2609.11592](http://arxiv.org/abs/2609.11592)|null|
 |**2026-09-03**|**Compile by Training: Turning Natural-Language Specifications into Local Neural Functions**|Yuntian Deng et.al.|[2609.04199](http://arxiv.org/abs/2609.04199)|null|
 |**2026-09-03**|**Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints**|Haoyaun Zhu et.al.|[2609.04198](http://arxiv.org/abs/2609.04198)|null|
 |**2026-09-03**|**Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning**|Kevin Du et.al.|[2609.04194](http://arxiv.org/abs/2609.04194)|null|
