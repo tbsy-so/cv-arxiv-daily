@@ -1,4 +1,4 @@
-## Updated on 2026.09.14
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1394,7 +1394,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## SFM
 
@@ -2418,7 +2418,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -5377,7 +5377,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5928,7 +5928,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Image Matching
 
@@ -7305,7 +7305,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## NeRF
 
@@ -9176,12 +9176,21 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## InSAR & Time-series Deformation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**GraLoD: Graphics-Inspired Continuous Level-of-Detail Learning for Image Restoration**|Hu Gao et.al.|[2609.16578](http://arxiv.org/abs/2609.16578)|null|
+|**2026-09-14**|**Multi-Label Proportion Learning for Sea-Ice Type Prediction**|Samira Alkaee Taleghan et.al.|[2609.16347](http://arxiv.org/abs/2609.16347)|null|
+|**2026-09-14**|**Dynamic Accretion Disk-Corona Connection and Broad Fe K $α$ Variability in Mrk 766 Revealed by Time-Resolved High Resolution X-Ray Spectroscopic Analysis**|Ayon Mondal et.al.|[2609.16151](http://arxiv.org/abs/2609.16151)|null|
+|**2026-09-14**|**Tracking the Ground: Online Lidar Identification of Robot-Induced Soil Deformation in Agricultural Environments**|Tom Montagnon et.al.|[2609.15667](http://arxiv.org/abs/2609.15667)|null|
+|**2026-09-14**|**Data-driven Prediction of Satellite-observed Avalanche Activity from Snowpack Simulations**|Jakob Grahn et.al.|[2609.15485](http://arxiv.org/abs/2609.15485)|null|
+|**2026-09-14**|**ProLiVis 2.0: Literature-Centric Visualization of Protein--Protein Interaction Networks, with a Citation-Trust Model for Interaction Evidence**|Melih Sözdinler et.al.|[2609.15236](http://arxiv.org/abs/2609.15236)|null|
+|**2026-09-11**|**Translation-Invariant Tile-Based Phase Unwrapping with Residual-Weighted Multipath Averaging**|Antoine Moevus et.al.|[2609.13409](http://arxiv.org/abs/2609.13409)|null|
+|**2026-09-15**|**GrassTop: Grassmannian k-mer Topology for Viral Classification and Phylogenetic Analysis**|Xiang Xiang Wang et.al.|[2609.13341](http://arxiv.org/abs/2609.13341)|null|
+|**2026-09-11**|**A Deployable Architecture for Robot-Mediated Tasks (DART): Evaluation in Socially Assistive Robot-Guided Cognitive Behavioral Therapy Exercises**|Mina Kian et.al.|[2609.12349](http://arxiv.org/abs/2609.12349)|null|
 |**2026-09-08**|**Infra-Bench CLS: A Global, Open-Source Benchmark for Critical Infrastructure Classification with Earth Observation Foundation Models**|Justin Guthrie et.al.|[2609.09482](http://arxiv.org/abs/2609.09482)|null|
 |**2026-09-08**|**Kalman Filtering and Smoothing for Improving Precision in Horvitz--Thompson Estimation of Infectious Disease Prevalence**|Jeongjin Lee et.al.|[2609.09325](http://arxiv.org/abs/2609.09325)|null|
 |**2026-09-07**|**Cross-modal learning for SAR target recognition using optical vision foundation models**|Lucas Hirsch et.al.|[2609.07753](http://arxiv.org/abs/2609.07753)|null|
@@ -9398,7 +9407,7 @@
 |**2026-01-19**|**VAST: Vascular Flow Analysis and Segmentation for Intracranial 4D Flow MRI**|Abhishek Singh et.al.|[2601.13393](http://arxiv.org/abs/2601.13393)|null|
 |**2025-12-30**|**A multimodal Transformer for InSAR-based ground deformation forecasting with cross-site generalization across Europe**|Wendong Yao et.al.|[2512.23906](http://arxiv.org/abs/2512.23906)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Mining Subsidence & Geohazard
 
@@ -9434,12 +9443,22 @@
 |**2020-06-06**|**A precise machine learning aided algorithm for land subsidence or upheave prediction from GNSS time series**|M. Kiani et.al.|[2006.03772](http://arxiv.org/abs/2006.03772)|null|
 |**2020-05-13**|**Deep Learning Framework for Detecting Ground Deformation in the Built Environment using Satellite InSAR data**|Nantheera Anantrasirichai et.al.|[2005.03221](http://arxiv.org/abs/2005.03221)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## LiDAR & UAV Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion**|Tetiana Martyniuk et.al.|[2609.17413](http://arxiv.org/abs/2609.17413)|null|
+|**2026-09-15**|**Online Geometric Change Detection via Scene Decomposition**|David Thorne et.al.|[2609.17302](http://arxiv.org/abs/2609.17302)|null|
+|**2026-09-15**|**Trajectory CPHD Filtering for Multiple Turning Vehicles With Decoupled Orientation and Axial-Scale Estimation**|Yunhe Cao et.al.|[2609.17242](http://arxiv.org/abs/2609.17242)|null|
+|**2026-09-15**|**TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer**|Yang Liu et.al.|[2609.17198](http://arxiv.org/abs/2609.17198)|null|
+|**2026-09-15**|**LiLi: Lie Theory Based 3D LiDAR Scan Alignment Degeneracy Detection**|Vsevolod Hulchuk et.al.|[2609.17145](http://arxiv.org/abs/2609.17145)|null|
+|**2026-09-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al.|[2609.17021](http://arxiv.org/abs/2609.17021)|null|
+|**2026-09-15**|**CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms**|Houssam Hajj Hassan et.al.|[2609.16852](http://arxiv.org/abs/2609.16852)|null|
+|**2026-09-15**|**SAVTrack: Selective Vote Aggregation for Reliability-Aware Point Cloud Tracking**|Sifan Zhou et.al.|[2609.16662](http://arxiv.org/abs/2609.16662)|null|
+|**2026-09-14**|**Geometry vs Structure: Graph-Based Diagnostics for LiDAR Point-Cloud Simulation Fidelity**|Ghazal Farhani et.al.|[2609.16378](http://arxiv.org/abs/2609.16378)|null|
+|**2026-09-14**|**Illusion of Depth: Revealing Hidden Stereo Vision Vulnerabilities in Depth Estimation**|Sri Hrushikesh Varma Bhupathiraju et.al.|[2609.16336](http://arxiv.org/abs/2609.16336)|null|
 |**2026-09-10**|**MMGait: Benchmarking and Unifying Gait Recognition across Heterogeneous Modalities**|Saihui Hou et.al.|[2609.11601](http://arxiv.org/abs/2609.11601)|null|
 |**2026-09-10**|**Lightweight LiDAR-Based Cone Detection Framework Using Random Forest for Formula Student Driverless**|Márk Mező-Kerekes et.al.|[2609.11527](http://arxiv.org/abs/2609.11527)|null|
 |**2026-09-10**|**Optimizing GEDI Simulator Configuration for European Temperate Forests**|Selim Behloul et.al.|[2609.11440](http://arxiv.org/abs/2609.11440)|null|
@@ -9681,12 +9700,22 @@
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|
 |**2026-04-03**|**RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection**|Cheng Lu et.al.|[2604.02903](http://arxiv.org/abs/2604.02903)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Multi-source Data Fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**A Reynolds-Semi-Robust, Globally Divergence-Free E-HDG/IMEX-SAV Method for Variational Initial-State Data Assimilation of the Navier-Stokes Equations**|Ya Min et.al.|[2609.17096](http://arxiv.org/abs/2609.17096)|null|
+|**2026-09-14**|**Adaptive and accuracy-aware multiple data assimilation in a three step framework**|Kyle Ivey et.al.|[2609.16434](http://arxiv.org/abs/2609.16434)|null|
+|**2026-09-14**|**Improving Reduced-Order Rotating Detonation Engine Models with Data Assimilation and Machine Learning**|Ashwin Suriyanarayanan et.al.|[2609.16237](http://arxiv.org/abs/2609.16237)|null|
+|**2026-09-14**|**MUSHY: Multimodal Flow-Based Amortized Bayesian Inference for Spectroscopic Data Fusion**|Jeff Shen et.al.|[2609.15945](http://arxiv.org/abs/2609.15945)|null|
+|**2026-09-14**|**Deep Koopman Sensing**|Nithin Somasekharan et.al.|[2609.15762](http://arxiv.org/abs/2609.15762)|null|
+|**2026-09-14**|**Design of a Deep Learning Credit Risk Early Warning System Integrating Multi-source Heterogeneous Data**|LiYang Wang et.al.|[2609.15744](http://arxiv.org/abs/2609.15744)|null|
+|**2026-09-14**|**Digital Twin of an Argon-Hydrogen Plasma Reactor**|B. Artola et.al.|[2609.15250](http://arxiv.org/abs/2609.15250)|null|
+|**2026-09-14**|**Cross-Block Conditioning in Deep Boltzmann Machines for Statistical Data Fusion**|Junichiro Niimi et.al.|[2609.14934](http://arxiv.org/abs/2609.14934)|null|
+|**2026-09-12**|**Ensemble generative filtering for sequential data assimilation in dynamical systems**|Xu-Hui Zhou et.al.|[2609.14078](http://arxiv.org/abs/2609.14078)|null|
+|**2026-09-11**|**PiMiX 2.02: Toward AI-Driven Data Fusion in Radiographic Imaging and Tomography**|Zhehui Wang et.al.|[2609.13347](http://arxiv.org/abs/2609.13347)|null|
 |**2026-09-10**|**Lightweight LiDAR-Based Cone Detection Framework Using Random Forest for Formula Student Driverless**|Márk Mező-Kerekes et.al.|[2609.11527](http://arxiv.org/abs/2609.11527)|null|
 |**2026-09-10**|**A Dynamic Fusion Large Language Model for Traffic Flow Prediction**|Xue Qiu et.al.|[2609.11314](http://arxiv.org/abs/2609.11314)|null|
 |**2026-09-10**|**LAION-Mobile: Evaluating Deepfake Detectors On One Million Smartphone Photos**|Achim von Stryk et.al.|[2609.11134](http://arxiv.org/abs/2609.11134)|null|
@@ -9868,7 +9897,7 @@
 |**2026-03-27**|**The Ice Sheet State and Parameter Estimator (ICESEE) Library (v1.0.0): Ensemble Kalman Filtering for Ice Sheet Models**|Brian Kyanjo et.al.|[2603.26947](http://arxiv.org/abs/2603.26947)|null|
 |**2026-03-26**|**Transdimensional Data Assimilation for dynamic model selection problems**|Márk Somogyvári et.al.|[2603.25318](http://arxiv.org/abs/2603.25318)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Point Cloud & 3D Processing
 
@@ -9885,7 +9914,7 @@
 |**2026-03-06**|**KISS-IMU: Self-supervised Inertial Odometry with Motion-balanced Learning and Uncertainty-aware Inference**|Jiwon Choi et.al.|[2603.06205](http://arxiv.org/abs/2603.06205)|null|
 |**2026-03-06**|**Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting**|Semin Bae et.al.|[2603.06061](http://arxiv.org/abs/2603.06061)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## AI & PINNs in Remote Sensing
 
@@ -9902,12 +9931,22 @@
 |**2026-04-07**|**Probing the Factorized Island Branch with the Capacity of Entanglement in JT Gravity**|Raúl Arias et.al.|[2604.05815](http://arxiv.org/abs/2604.05815)|null|
 |**2026-04-07**|**Physics-Informed Neural Optimal Control for Precision Immobilization Technique in Emergency Scenarios**|Yangye Jiang et.al.|[2604.05758](http://arxiv.org/abs/2604.05758)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Point Cloud Processing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion**|Tetiana Martyniuk et.al.|[2609.17413](http://arxiv.org/abs/2609.17413)|null|
+|**2026-09-15**|**CAD-Based Relation Learning and Geometric-Symbolic Planning for Robotic Assembly**|Fabian Harlacher et.al.|[2609.17263](http://arxiv.org/abs/2609.17263)|null|
+|**2026-09-15**|**StainBridge: Stain-Aware Pairwise Registration of Serial Renal Biopsy Whole-Slide Images Across Structural and Immunohistochemical Stains**|Ellen Wei et.al.|[2609.17090](http://arxiv.org/abs/2609.17090)|null|
+|**2026-09-15**|**Optimal exposure time for satellite imaging? A trade-off between residual tip-tilt and registration accuracy**|Florian Cheyssial et.al.|[2609.17023](http://arxiv.org/abs/2609.17023)|null|
+|**2026-09-15**|**MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation**|Kamil Kwarciak et.al.|[2609.16934](http://arxiv.org/abs/2609.16934)|null|
+|**2026-09-15**|**CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms**|Houssam Hajj Hassan et.al.|[2609.16852](http://arxiv.org/abs/2609.16852)|null|
+|**2026-09-15**|**Rethinking Visual Embodiment Dependence in Visuomotor Policies**|Hongjie Fang et.al.|[2609.16815](http://arxiv.org/abs/2609.16815)|null|
+|**2026-09-15**|**SAVTrack: Selective Vote Aggregation for Reliability-Aware Point Cloud Tracking**|Sifan Zhou et.al.|[2609.16662](http://arxiv.org/abs/2609.16662)|null|
+|**2026-09-15**|**G3AR: Graph-Guided Neural Visual Geometry for Scalable Multi-Sequence Aerial Registration**|Jeng Wen Joshua Lean et.al.|[2609.16603](http://arxiv.org/abs/2609.16603)|null|
+|**2026-09-15**|**ProxiDex: Learning Dynamics-Guided Proximity Policy for Dexterous Manipulation**|Yushan Bai et.al.|[2609.16586](http://arxiv.org/abs/2609.16586)|null|
 |**2026-09-10**|**Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits**|John Bonnici et.al.|[2609.11650](http://arxiv.org/abs/2609.11650)|null|
 |**2026-09-10**|**UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound**|Weiying Chen et.al.|[2609.11506](http://arxiv.org/abs/2609.11506)|null|
 |**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Qianliang Wu et.al.|[2609.11472](http://arxiv.org/abs/2609.11472)|null|
@@ -10160,12 +10199,22 @@
 |**2026-04-06**|**PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding**|Siyuan Liu et.al.|[2604.04933](http://arxiv.org/abs/2604.04933)|null|
 |**2026-04-06**|**ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture**|Xu Mingze et.al.|[2604.04820](http://arxiv.org/abs/2604.04820)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## AI in Remote Sensing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation**|Vicky Feliren et.al.|[2609.17499](http://arxiv.org/abs/2609.17499)|null|
+|**2026-09-15**|**FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection**|Xiaoxuan Huang et.al.|[2609.17491](http://arxiv.org/abs/2609.17491)|null|
+|**2026-09-15**|**Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult**|Alexander Tyurin et.al.|[2609.17483](http://arxiv.org/abs/2609.17483)|null|
+|**2026-09-15**|**Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory**|Yuto Sakurai et.al.|[2609.17477](http://arxiv.org/abs/2609.17477)|null|
+|**2026-09-15**|**Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback**|Haichen Hu et.al.|[2609.17474](http://arxiv.org/abs/2609.17474)|null|
+|**2026-09-15**|**Tables Decoded: DELTA for Structure, TARQA for Understanding**|Jahanvi Rajput et.al.|[2609.17458](http://arxiv.org/abs/2609.17458)|null|
+|**2026-09-15**|**Reduced-Space Multi-Fidelity Bayesian Optimization of Process Simulation Models**|Niki Triantafyllou et.al.|[2609.17440](http://arxiv.org/abs/2609.17440)|null|
+|**2026-09-15**|**Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging**|Liang-Ching Tao et.al.|[2609.17429](http://arxiv.org/abs/2609.17429)|null|
+|**2026-09-15**|**Refining Timing Uncertainty from Logical Time Specification to Operation**|Pavlo Tokariev et.al.|[2609.17388](http://arxiv.org/abs/2609.17388)|null|
+|**2026-09-15**|**Bridging the Confidence Gap: Temperature Scaling for Calibrating Test-Time Prompt Tuning**|Yuwei Liang et.al.|[2609.17386](http://arxiv.org/abs/2609.17386)|null|
 |**2026-09-10**|**RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Ramiro Valdes Jara et.al.|[2609.11648](http://arxiv.org/abs/2609.11648)|null|
 |**2026-09-10**|**ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding**|Luca Della Libera et.al.|[2609.11642](http://arxiv.org/abs/2609.11642)|null|
 |**2026-09-10**|**LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics**|Mariia Baranova et.al.|[2609.11639](http://arxiv.org/abs/2609.11639)|null|
@@ -10427,7 +10476,7 @@
 |**2026-04-07**|**Gym-Anything: Turn any Software into an Agent Environment**|Pranjal Aggarwal et.al.|[2604.06126](http://arxiv.org/abs/2604.06126)|null|
 |**2026-04-07**|**A Large-Scale Empirical Comparison of Meta-Learners and Causal Forests for Heterogeneous Treatment Effect Estimation in Marketing Uplift Modeling**|Aman Singh et.al.|[2604.06123](http://arxiv.org/abs/2604.06123)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
