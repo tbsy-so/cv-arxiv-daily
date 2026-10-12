@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -10345,7 +10345,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-08**|**CSF: Contextual Safety Filtering for Motion Generators**|Lizhi Yang et.al.|[2610.12467](http://arxiv.org/abs/2610.12467)|null|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465](http://arxiv.org/abs/2610.12465)|null|
-|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**| Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
+|**2026-10-08**|**Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting**|Nhan et.al.|[2610.12455](http://arxiv.org/abs/2610.12455)|null|
 |**2026-10-08**|**Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems**|Anna Zimmel et.al.|[2610.12449](http://arxiv.org/abs/2610.12449)|null|
 |**2026-10-08**|**One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts**|Adrian Bulat et.al.|[2610.12448](http://arxiv.org/abs/2610.12448)|null|
 |**2026-10-08**|**Entanglement entropy and magic of ZX-diagrams**|Marcin Szyniszewski et.al.|[2610.12447](http://arxiv.org/abs/2610.12447)|null|
