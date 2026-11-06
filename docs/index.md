@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Bayesian Spatio-temporal Modeling of Multi-Site Wastewater Surveillance Data**|K. Ken Peng et.al.|[2611.07602](http://arxiv.org/abs/2611.07602)|null|
+|**2026-11-04**|**All reweighted paths lead to Rome: Unification of reweighting schemes for stratified path sampling**|Peter G. Bolhuis et.al.|[2611.06283](http://arxiv.org/abs/2611.06283)|null|
+|**2026-11-04**|**CAPE-JEPA - Cross-modal Adversarial Probabilistic Embedding JEPA**|Aniket Junghare et.al.|[2611.06247](http://arxiv.org/abs/2611.06247)|null|
+|**2026-11-04**|**XuanJian-DINOSAR: A SAR Foundation Model Based on Global and Local Semantic Consistency**|Chunxiao Wu et.al.|[2611.06105](http://arxiv.org/abs/2611.06105)|null|
+|**2026-11-02**|**Mesh-Agnostic Refinement Models for Latent Space Encoding of 3D Human Body Shapes**|Chaima Zouaouid et.al.|[2611.03285](http://arxiv.org/abs/2611.03285)|null|
+|**2026-11-02**|**Shared-Pattern Collaborative Network for Multi-Source Remote Sensing Data Classification**|Chenfang Yang et.al.|[2611.03069](http://arxiv.org/abs/2611.03069)|null|
+|**2026-11-02**|**Original Insights Into Rock Slope Damage Processes Until Collapse From Passive Seismic Monitoring**|P. Bottelin et.al.|[2611.02863](http://arxiv.org/abs/2611.02863)|null|
+|**2026-10-31**|**A model-based adaptive sampling framework for infectious disease surveillance**|Supun Manathunga et.al.|[2611.01199](http://arxiv.org/abs/2611.01199)|null|
+|**2026-10-31**|**An all-weather microwave-based AI retrieval of pan-Arctic melt pond fraction**|Sara Aparício et.al.|[2611.00940](http://arxiv.org/abs/2611.00940)|null|
+|**2026-10-30**|**SAR-TS-BERT: Physics-Guided Self-Supervised Pre-Training With Polarimetric Features for SAR Time-Series Crop Classification**|Jieqiu Wang et.al.|[2610.41728](http://arxiv.org/abs/2610.41728)|null|
 |**2026-10-29**|**Quantum-Inspired Convolutional Networks for High-Resolution Pseudo-Label Generation from Multimodal Earth Observation Data**|Abhishek Singh et.al.|[2610.39773](http://arxiv.org/abs/2610.39773)|null|
 |**2026-10-29**|**MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery**|Yikun Zhang et.al.|[2610.39714](http://arxiv.org/abs/2610.39714)|null|
 |**2026-10-29**|**Optical clock network tracks tidal variations of the gravity potential**|Kilian Stahl et.al.|[2610.39635](http://arxiv.org/abs/2610.39635)|null|
@@ -9477,6 +9487,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613](http://arxiv.org/abs/2611.07613)|null|
+|**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463](http://arxiv.org/abs/2611.07463)|null|
+|**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081](http://arxiv.org/abs/2611.07081)|null|
+|**2026-11-04**|**FOSCo-Net: Ego-centric Voxel Completion for Forest LiDAR Occlusions**|Iman Esfandiyar et.al.|[2611.06588](http://arxiv.org/abs/2611.06588)|null|
+|**2026-11-04**|**Corridor-Based Monitoring and Emergency Braking Decision for Automated Vehicle Safety**|Junnan Pan et.al.|[2611.06287](http://arxiv.org/abs/2611.06287)|null|
+|**2026-11-04**|**Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes**|Lukas Rauch et.al.|[2611.06180](http://arxiv.org/abs/2611.06180)|null|
+|**2026-11-04**|**Look Before You Move: Multimodal Sensing-Aided Trajectory and Beamforming Design for 6DMA**|Zeyu Hao et.al.|[2611.05989](http://arxiv.org/abs/2611.05989)|null|
+|**2026-11-04**|**Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion**|Ryan Wen Liu et.al.|[2611.05818](http://arxiv.org/abs/2611.05818)|null|
+|**2026-11-04**|**WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark**|Rohit Mohan et.al.|[2611.05801](http://arxiv.org/abs/2611.05801)|null|
+|**2026-11-03**|**Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds**|Krishnakumar N et.al.|[2611.05569](http://arxiv.org/abs/2611.05569)|null|
 |**2026-10-29**|**Don't Risk It!: Trajectory-Conditioned Distributional Risk for LiDAR-Only Crowd Navigation**|Mathai Mathew Pulicken et.al.|[2610.40050](http://arxiv.org/abs/2610.40050)|null|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848](http://arxiv.org/abs/2610.39848)|null|
 |**2026-10-29**|**Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition**|Wenhui Feng et.al.|[2610.39691](http://arxiv.org/abs/2610.39691)|null|
@@ -9802,6 +9822,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**A Survey of Nonlinear Filtering Methods for Data Assimilation and Recent Advances in Generative AI-Enabled Score Filters**|Cath Pham et.al.|[2611.07160](http://arxiv.org/abs/2611.07160)|null|
+|**2026-11-04**|**Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion**|Ryan Wen Liu et.al.|[2611.05818](http://arxiv.org/abs/2611.05818)|null|
+|**2026-11-03**|**Reconstructing Rayleigh--Bénard flows from temperature-only measurements using the Ensemble Kalman Filter**|Francesco Fossella et.al.|[2611.04795](http://arxiv.org/abs/2611.04795)|null|
+|**2026-11-02**|**When Latent Dynamics Meet Data Assimilation: A Benchmark of Koopman-Type Representations**|Zhiwei Zhang et.al.|[2611.03916](http://arxiv.org/abs/2611.03916)|null|
+|**2026-11-02**|**Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches**|Rileigh Bandy et.al.|[2611.03612](http://arxiv.org/abs/2611.03612)|null|
+|**2026-11-02**|**Fast nonparametric estimation of sparse precision matrices with a priori sparsity structure**|Caleb Derrickson et.al.|[2611.03462](http://arxiv.org/abs/2611.03462)|null|
+|**2026-11-02**|**MS-DOTT: A Multi-Modal Dataset for Off-Road Traversability Estimation**|Shivani Subramanyan et.al.|[2611.02992](http://arxiv.org/abs/2611.02992)|null|
+|**2026-10-31**|**Closed-Form Gaussian Mixture Representations of d-Dimensional Triangulated Domains**|Ali Darijani et.al.|[2611.00922](http://arxiv.org/abs/2611.00922)|null|
+|**2026-10-31**|**From White Canes to Edge AI: A Survey of Assistive Navigation Technologies for Blind and Low-Vision Individuals**|Abtin Zandi et.al.|[2611.00671](http://arxiv.org/abs/2611.00671)|null|
+|**2026-10-30**|**Patch-Based Deep Kernel Learning for Data Assimilation and Bias Correction with Extremely Sparse Observations**|Emanuele Mele et.al.|[2610.41596](http://arxiv.org/abs/2610.41596)|null|
 |**2026-10-29**|**Surface Conditioning for Zero-Shot Multivariate Correction in a Marine Biogeochemistry Emulator**|Gabriela Martínez Balbontín et.al.|[2610.39777](http://arxiv.org/abs/2610.39777)|null|
 |**2026-10-27**|**HorizON: A Multi-Horizon Deep Operator Network for Property Prediction of Organic Battery Stacks**|Subhash V. S. Ganti et.al.|[2610.36860](http://arxiv.org/abs/2610.36860)|null|
 |**2026-10-27**|**4D sensitivity kernels for infrasound atmospheric propagation: considering the need and impact of time dependent observation operators for acoustic wave observations in data assimilation methods**|Raphael F. Garcia et.al.|[2610.36810](http://arxiv.org/abs/2610.36810)|null|
@@ -10087,6 +10117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision**|Pierre Onghena et.al.|[2611.07677](http://arxiv.org/abs/2611.07677)|null|
+|**2026-11-05**|**ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation**|Minh Canh Tu et.al.|[2611.07658](http://arxiv.org/abs/2611.07658)|null|
+|**2026-11-05**|**Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images**|David G. Shatwell et.al.|[2611.07575](http://arxiv.org/abs/2611.07575)|null|
+|**2026-11-05**|**Route Before Response: Fail-Closed Routing for LLM-Enabled Customer-Service Software**|Yuchen Cao et.al.|[2611.07534](http://arxiv.org/abs/2611.07534)|null|
+|**2026-11-05**|**Optimal-Transport Contrastive Learning for Centrality Determination in Heavy-Ion Collisions**|Shu-Yun Yang et.al.|[2611.07465](http://arxiv.org/abs/2611.07465)|null|
+|**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463](http://arxiv.org/abs/2611.07463)|null|
+|**2026-11-05**|**Adversarial Multiplicity: Cherry-Picked Models and the Limits of Disclosure**|Cassandra C. Chou et.al.|[2611.07378](http://arxiv.org/abs/2611.07378)|null|
+|**2026-11-05**|**DC-SQEM: Medial Mesh Extraction by Dual Contouring with Spherical Quadric Error Metric**|Bingchuan Li et.al.|[2611.07328](http://arxiv.org/abs/2611.07328)|null|
+|**2026-11-04**|**Practical Semialgebraic Optimization via Sparse Sample-Based Sum-of-Squares Programming**|Jason Nezvadovitz et.al.|[2611.07108](http://arxiv.org/abs/2611.07108)|null|
+|**2026-11-04**|**ToroFit: Fitting Wedge Sums of Tori to High-Dimensional Data**|Tanishq Bhatia et.al.|[2611.06990](http://arxiv.org/abs/2611.06990)|null|
 |**2026-10-29**|**rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment**|Art Kanke et.al.|[2610.40488](http://arxiv.org/abs/2610.40488)|null|
 |**2026-10-29**|**Compressed Orientation Reachability Maps for Sub-Second Robotic Needle Entry Point Planning**|Prabhu Nithin Gollapudi et.al.|[2610.39879](http://arxiv.org/abs/2610.39879)|null|
 |**2026-10-29**|**Probabilistic Meshless Methods on Manifolds**|Federico Pavesi et.al.|[2610.39855](http://arxiv.org/abs/2610.39855)|null|
@@ -10423,6 +10463,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech**|Daria Guseva et.al.|[2611.08006](http://arxiv.org/abs/2611.08006)|null|
+|**2026-11-05**|**When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery**|Kshitij Raj Sharma et.al.|[2611.08003](http://arxiv.org/abs/2611.08003)|null|
+|**2026-11-05**|**Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction**|Makoto Takamoto et.al.|[2611.07998](http://arxiv.org/abs/2611.07998)|null|
+|**2026-11-05**|**Atomic Parity Violation: Standard Model Tests**|Jacinda Ginges et.al.|[2611.07997](http://arxiv.org/abs/2611.07997)|null|
+|**2026-11-05**|**QRAE: Query-Relevant Attention Entropy for Context Compression in DeepSearch Agents**|Yingjie Tan et.al.|[2611.07976](http://arxiv.org/abs/2611.07976)|null|
+|**2026-11-05**|**Tight Asymptotic Bounds on the Maximum Number of Linear Regions of Piecewise-Linear Kolmogorov--Arnold networks**|Ye Su et.al.|[2611.07973](http://arxiv.org/abs/2611.07973)|null|
+|**2026-11-05**|**CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation**|Guhan Chen et.al.|[2611.07959](http://arxiv.org/abs/2611.07959)|null|
+|**2026-11-05**|**A Behavioural Framework for Predicting and Understanding Loss of Control in Frontier Artificial Intelligence Systems**|Yao Huang et.al.|[2611.07953](http://arxiv.org/abs/2611.07953)|null|
+|**2026-11-05**|**Invariance before structure: two modes of emergent compression in representation learning**|Hardik Rajpal et.al.|[2611.07952](http://arxiv.org/abs/2611.07952)|null|
+|**2026-11-05**|**Requirements Nobody Wrote Down: Emergence in a Public-Sector ML Pipeline**|Ronivaldo Ferreira et.al.|[2611.07951](http://arxiv.org/abs/2611.07951)|null|
 |**2026-10-29**|**Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering**|Moshe Shenfeld et.al.|[2610.40654](http://arxiv.org/abs/2610.40654)|null|
 |**2026-10-29**|**Rethinking Neural Thickets Without Weight Perturbations**|Nicolas Dufour et.al.|[2610.40649](http://arxiv.org/abs/2610.40649)|null|
 |**2026-10-29**|**Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers**|Jiongfan Yang et.al.|[2610.40647](http://arxiv.org/abs/2610.40647)|null|
