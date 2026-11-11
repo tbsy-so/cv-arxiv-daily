@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.09
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics**|Sepideh Ravanbakhsh et.al.|[2611.13161](http://arxiv.org/abs/2611.13161)|null|
+|**2026-11-09**|**N-Layer quasi-geostrophic modons in a vertically sheared flow**|Matthew N. Crowe et.al.|[2611.12433](http://arxiv.org/abs/2611.12433)|null|
+|**2026-11-09**|**Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers**|Antonio Dantas et.al.|[2611.12317](http://arxiv.org/abs/2611.12317)|null|
+|**2026-11-09**|**Bistatic UAV-Based 3D SAR Imaging Using Integrated Sensing and Communications Transceivers**|Akanksha Sneh et.al.|[2611.11956](http://arxiv.org/abs/2611.11956)|null|
+|**2026-11-08**|**PA-SaR: Perception-Aware Learning, Control, and Coordination for Multi-Robot Search and Rescue**|Jocubas Dimsa et.al.|[2611.11648](http://arxiv.org/abs/2611.11648)|null|
+|**2026-11-10**|**Polarization Aware Deep Learning Framework for SAR Despeckling**|Gianpaolo Passarello et.al.|[2611.10091](http://arxiv.org/abs/2611.10091)|null|
+|**2026-11-06**|**Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples**|Md Mahmudur Rahman et.al.|[2611.09746](http://arxiv.org/abs/2611.09746)|null|
+|**2026-11-06**|**PreForceVision: Physics-Guided Optical Estimation of Bolt Preload from Bolt-Head Deformation**|Nehal Afifi et.al.|[2611.09529](http://arxiv.org/abs/2611.09529)|null|
+|**2026-11-06**|**RegNC-Mamba3: Shared Structural Feature Learning Using Non-Causal State Space Principles for Multi-Modal Image Registration**|Zhikang Li et.al.|[2611.09336](http://arxiv.org/abs/2611.09336)|null|
+|**2026-11-06**|**Nowcasting of Tropical Cyclone Wind Fields and Intensity from Geostationary Imagery**|Simon Donike et.al.|[2611.08255](http://arxiv.org/abs/2611.08255)|null|
 |**2026-11-05**|**Bayesian Spatio-temporal Modeling of Multi-Site Wastewater Surveillance Data**|K. Ken Peng et.al.|[2611.07602](http://arxiv.org/abs/2611.07602)|null|
 |**2026-11-04**|**All reweighted paths lead to Rome: Unification of reweighting schemes for stratified path sampling**|Peter G. Bolhuis et.al.|[2611.06283](http://arxiv.org/abs/2611.06283)|null|
 |**2026-11-04**|**CAPE-JEPA - Cross-modal Adversarial Probabilistic Embedding JEPA**|Aniket Junghare et.al.|[2611.06247](http://arxiv.org/abs/2611.06247)|null|
@@ -9487,6 +9497,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**HiPFuse: Real-Time LiDAR Semantic Segmentation for Robotic Perception on Edge Devices**|Haiyang Wu et.al.|[2611.14025](http://arxiv.org/abs/2611.14025)|null|
+|**2026-11-10**|**Spatio-Temporal Calibration of a Vehicle-Mounted Microphone Array for Autonomous Driving**|Marvin Seegert et.al.|[2611.14003](http://arxiv.org/abs/2611.14003)|null|
+|**2026-11-10**|**Integrating Action Prefix Prediction and Alignment Across Modalities for Multimodal Reinforcement Learning**|Sijie Xu et.al.|[2611.13782](http://arxiv.org/abs/2611.13782)|null|
+|**2026-11-10**|**Effects of Laser Beam Width and Measurement Noise on Tree Diameter Estimation in Laser Scanning**|Jesse Muhojoki et.al.|[2611.13739](http://arxiv.org/abs/2611.13739)|null|
+|**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|null|
+|**2026-11-10**|**Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving**|Haohua Que et.al.|[2611.13494](http://arxiv.org/abs/2611.13494)|null|
+|**2026-11-09**|**TACTUS: A Robotic Palpation System for Spatially Heterogeneous Hardness Mapping of Woody Breast Myopathy**|Chaitanya Pallerla et.al.|[2611.12695](http://arxiv.org/abs/2611.12695)|null|
+|**2026-11-09**|**RAPA: Ray-Aware Physics Augmentation for Robust Camera-LiDAR Calibration**|Kyung-Rin Oh et.al.|[2611.12129](http://arxiv.org/abs/2611.12129)|null|
+|**2026-11-09**|**LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting**|Zhimin Liao et.al.|[2611.11912](http://arxiv.org/abs/2611.11912)|null|
+|**2026-11-08**|**Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting**|Robin Bruneau et.al.|[2611.11602](http://arxiv.org/abs/2611.11602)|null|
 |**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613](http://arxiv.org/abs/2611.07613)|null|
 |**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463](http://arxiv.org/abs/2611.07463)|null|
 |**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081](http://arxiv.org/abs/2611.07081)|null|
@@ -9822,6 +9842,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Online Digital Twins: Data Assimilation and Control**|Sebastian Reich et.al.|[2611.12001](http://arxiv.org/abs/2611.12001)|null|
+|**2026-11-09**|**Ensemble Covariance Propagation with Machine Learning Weather Prediction Models in a Realistic Data Assimilation System**|Simon Toedtli et.al.|[2611.11918](http://arxiv.org/abs/2611.11918)|null|
+|**2026-11-08**|**A Sequential Monte Carlo Method for Data Assimilation in Subsurface Flow Systems with Hierarchical Uncertainty**|Wenchao Teng et.al.|[2611.11681](http://arxiv.org/abs/2611.11681)|null|
+|**2026-11-08**|**Analysis increments for model bias diagnosis and correction: Theoretical foundations**|Eviatar Bach et.al.|[2611.11162](http://arxiv.org/abs/2611.11162)|null|
+|**2026-11-07**|**Guided Co-Attention with Adaptive Gating for Multimodal Medical Data Fusion**|Muntaqim Ahmed Raju et.al.|[2611.10348](http://arxiv.org/abs/2611.10348)|null|
+|**2026-11-05**|**Reconstruction of Global Groundwater Storage Anomaly from GRACE Satellite Gravimetry Using a Physics-Constrained Decomposition LSTM**|Arpon Sarkar et.al.|[2611.08567](http://arxiv.org/abs/2611.08567)|null|
 |**2026-11-04**|**A Survey of Nonlinear Filtering Methods for Data Assimilation and Recent Advances in Generative AI-Enabled Score Filters**|Cath Pham et.al.|[2611.07160](http://arxiv.org/abs/2611.07160)|null|
 |**2026-11-04**|**Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion**|Ryan Wen Liu et.al.|[2611.05818](http://arxiv.org/abs/2611.05818)|null|
 |**2026-11-03**|**Reconstructing Rayleigh--Bénard flows from temperature-only measurements using the Ensemble Kalman Filter**|Francesco Fossella et.al.|[2611.04795](http://arxiv.org/abs/2611.04795)|null|
@@ -10117,6 +10143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Where do we Jam? - The Impact of Real and Virtual XR Spaces on Musical Creativity, Co-Presence, Affect, and Flow**|Ruben Schlagowski et.al.|[2611.14029](http://arxiv.org/abs/2611.14029)|null|
+|**2026-11-10**|**The BRIDGE dataset: paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&E staining**|Julia A. Mielcarz et.al.|[2611.13883](http://arxiv.org/abs/2611.13883)|null|
+|**2026-11-10**|**RaGCD: Reliability-Aware 2D-3D Multimodal Generalized Category Discovery**|Junyong Liu et.al.|[2611.13827](http://arxiv.org/abs/2611.13827)|null|
+|**2026-11-10**|**Topological Dynamics Under Non-Stationary Supervision: Persistent Homology of Neural Network Weight Evolution**|Mitra Varun et.al.|[2611.13701](http://arxiv.org/abs/2611.13701)|null|
+|**2026-11-10**|**Statistical Analysis of the Structure from Noise Phenomenon in Generalized Procrustes Problems**|Jiayang Yin et.al.|[2611.13546](http://arxiv.org/abs/2611.13546)|null|
+|**2026-11-09**|**RaMOD: Moving-Object Detection from Raw mmWave Radar Cubes under Ego Motion**|Yuan Fang et.al.|[2611.13271](http://arxiv.org/abs/2611.13271)|null|
+|**2026-11-09**|**2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling**|Aarya Bhave et.al.|[2611.12805](http://arxiv.org/abs/2611.12805)|null|
+|**2026-11-09**|**Smartphone-Enabled Depth-Aware Transillumination Imaging for Detection of Chicken Breast Fillet Myopathies in Chicken Fillets**|Chaitanya Pallerla et.al.|[2611.12796](http://arxiv.org/abs/2611.12796)|null|
+|**2026-11-09**|**BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication**|Taotao Wang et.al.|[2611.12636](http://arxiv.org/abs/2611.12636)|null|
+|**2026-11-09**|**Rethinking Radar 3D Perception: Representation Learning from Raw Spectra**|Miao Zhang et.al.|[2611.12334](http://arxiv.org/abs/2611.12334)|null|
 |**2026-11-05**|**GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision**|Pierre Onghena et.al.|[2611.07677](http://arxiv.org/abs/2611.07677)|null|
 |**2026-11-05**|**ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation**|Minh Canh Tu et.al.|[2611.07658](http://arxiv.org/abs/2611.07658)|null|
 |**2026-11-05**|**Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images**|David G. Shatwell et.al.|[2611.07575](http://arxiv.org/abs/2611.07575)|null|
@@ -10463,6 +10499,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
+|**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Enhao Cui et.al.|[2611.14060](http://arxiv.org/abs/2611.14060)|null|
+|**2026-11-10**|**HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios**|Rezwan Islam Salvi et.al.|[2611.14059](http://arxiv.org/abs/2611.14059)|null|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**Structured Confidence Perturbation via Fisher Geometry for Adversarial Training**|Chenlong Wei et.al.|[2611.14046](http://arxiv.org/abs/2611.14046)|null|
+|**2026-11-10**|**ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models**|Minyu Zhou et.al.|[2611.14035](http://arxiv.org/abs/2611.14035)|null|
+|**2026-11-10**|**PINNverse meets Jordan--Wigner: learning the Hamiltonian of long spin chains**|Gubio G De Lima et.al.|[2611.14023](http://arxiv.org/abs/2611.14023)|null|
+|**2026-11-10**|**Safe and Scalable Minimax Adaptive Control of Positive Systems**|Fethi Bencherki et.al.|[2611.14021](http://arxiv.org/abs/2611.14021)|null|
+|**2026-11-10**|**Margin-Guided Token Credit for Reinforcement Learning with Verifiable Rewards**|Chi Liu et.al.|[2611.14015](http://arxiv.org/abs/2611.14015)|null|
+|**2026-11-10**|**Coding Agent Memory Post-Training II: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via On-Policy Distillation**|Lirui Luo et.al.|[2611.14009](http://arxiv.org/abs/2611.14009)|null|
 |**2026-11-05**|**Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech**|Daria Guseva et.al.|[2611.08006](http://arxiv.org/abs/2611.08006)|null|
 |**2026-11-05**|**When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery**|Kshitij Raj Sharma et.al.|[2611.08003](http://arxiv.org/abs/2611.08003)|null|
 |**2026-11-05**|**Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction**|Makoto Takamoto et.al.|[2611.07998](http://arxiv.org/abs/2611.07998)|null|
