@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.11
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9154,6 +9154,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**The Chabauty--Kim dimension inequality via noncommutative Iwasawa theory**|Sa'ar Zehavi et.al.|[2611.18218](http://arxiv.org/abs/2611.18218)|null|
+|**2026-11-12**|**Thermally Activated Magnetic Switching in Antiferromagnetic Van der Waals Trilayers Resolved by Single-Spin Diamond Magnetometry**|Fabian A. Gerritsma et.al.|[2611.17521](http://arxiv.org/abs/2611.17521)|null|
+|**2026-11-12**|**Flexible nonlinear spatial autoregressive models under spatial confounding: a gradient boosting approach with closed-form estimation**|Ghislain Geniaux et.al.|[2611.16592](http://arxiv.org/abs/2611.16592)|null|
+|**2026-11-11**|**Slow Macroscopic Rotations of Neutron Stars With a Deformed Effective Surface**|A. A. Uleiev et.al.|[2611.15591](http://arxiv.org/abs/2611.15591)|null|
+|**2026-11-10**|**Terrain-Aware Thompson Sampling for Multi-Drone Search and Rescue**|Riana Gagnon Souleiman et.al.|[2611.14685](http://arxiv.org/abs/2611.14685)|null|
+|**2026-11-10**|**RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval**|Tanishq Rachamalla et.al.|[2611.14496](http://arxiv.org/abs/2611.14496)|null|
+|**2026-11-10**|**Classical phase unwrapping enables large-time-step unitary quantum Krylov subspace diagonalization**|Tushar Kumar Jain et.al.|[2611.14214](http://arxiv.org/abs/2611.14214)|null|
+|**2026-11-10**|**CroCoMAE: Cross-modal self-supervised collaborative representation learning for SAR-optical remote sensing data**|Vito Recchia et.al.|[2611.14124](http://arxiv.org/abs/2611.14124)|null|
 |**2026-11-09**|**Cognitive Multi-Agent Search and Rescue: Language-Grounded Hierarchical Reinforcement Learning for Collaborative Robotics**|Sepideh Ravanbakhsh et.al.|[2611.13161](http://arxiv.org/abs/2611.13161)|null|
 |**2026-11-09**|**N-Layer quasi-geostrophic modons in a vertically sheared flow**|Matthew N. Crowe et.al.|[2611.12433](http://arxiv.org/abs/2611.12433)|null|
 |**2026-11-09**|**Maximizing Detection Probability in UAV Search Missions using Random-Key Optimizers**|Antonio Dantas et.al.|[2611.12317](http://arxiv.org/abs/2611.12317)|null|
@@ -9497,6 +9505,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**DIRT: Depth-completed Image-based Rendering using Two-band Blending for Live Novel-view Synthesis**|Mathias Harrer et.al.|[2611.18340](http://arxiv.org/abs/2611.18340)|null|
+|**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|null|
+|**2026-11-13**|**Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces**|Sina Mohammadi et.al.|[2611.18033](http://arxiv.org/abs/2611.18033)|null|
+|**2026-11-12**|**X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot**|Jiaxin Huang et.al.|[2611.17598](http://arxiv.org/abs/2611.17598)|null|
+|**2026-11-12**|**CT-SGAL-LIO: Causal Continuous Time Refinement of Discrete LiDAR Inertial Odometry**|Nam Tran et.al.|[2611.16918](http://arxiv.org/abs/2611.16918)|null|
+|**2026-11-12**|**AgriSense: Vision-Language Decision Support and Robotic Intervention in a Virtual Greenhouse Copy title**|Lyes Saad Saoud et.al.|[2611.16752](http://arxiv.org/abs/2611.16752)|null|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742](http://arxiv.org/abs/2611.16742)|null|
+|**2026-11-12**|**Safe and Efficient Navigation Considering Texting Pedestrians via Attention-Aware Cost-map Tuning**|Shunya Tadano et.al.|[2611.16725](http://arxiv.org/abs/2611.16725)|null|
+|**2026-11-12**|**ReFineR: Single image to dense point cloud registration at pixel level with point splatting**|Ugo Insalaco et.al.|[2611.16583](http://arxiv.org/abs/2611.16583)|null|
+|**2026-11-12**|**RICapBench: A Fine-Grained Visual Understanding Benchmark Dataset for Vision-Language Models in Remote Sensing**|Xue Wang et.al.|[2611.16413](http://arxiv.org/abs/2611.16413)|null|
 |**2026-11-10**|**HiPFuse: Real-Time LiDAR Semantic Segmentation for Robotic Perception on Edge Devices**|Haiyang Wu et.al.|[2611.14025](http://arxiv.org/abs/2611.14025)|null|
 |**2026-11-10**|**Spatio-Temporal Calibration of a Vehicle-Mounted Microphone Array for Autonomous Driving**|Marvin Seegert et.al.|[2611.14003](http://arxiv.org/abs/2611.14003)|null|
 |**2026-11-10**|**Integrating Action Prefix Prediction and Alignment Across Modalities for Multimodal Reinforcement Learning**|Sijie Xu et.al.|[2611.13782](http://arxiv.org/abs/2611.13782)|null|
@@ -9842,6 +9860,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**WeatherDreamer: Learning a World Model from Multimodal Earth Observations**|Kate Duffy et.al.|[2611.18393](http://arxiv.org/abs/2611.18393)|null|
+|**2026-11-13**|**Generalized hydraulic neural operators turbocharging sewer digital twins**|Ruozhou Lin et.al.|[2611.18081](http://arxiv.org/abs/2611.18081)|null|
+|**2026-11-13**|**Tracing Uncertainties of Extreme El Niño Prediction to Mesoscale Ocean Currents**|Bo Qin et.al.|[2611.17854](http://arxiv.org/abs/2611.17854)|null|
+|**2026-11-12**|**MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects**|Ruihan Guo et.al.|[2611.16361](http://arxiv.org/abs/2611.16361)|null|
+|**2026-11-11**|**Advancing global water cycle science with the upcoming MAGIC satellite mission through data assimilation**|Helena Gerdener et.al.|[2611.15421](http://arxiv.org/abs/2611.15421)|null|
+|**2026-11-11**|**Hear What You Eat: In-Ear Passive Acoustic Sensing for Multi-task Dietary Monitoring**|Feiyu Han et.al.|[2611.14878](http://arxiv.org/abs/2611.14878)|null|
 |**2026-11-09**|**Online Digital Twins: Data Assimilation and Control**|Sebastian Reich et.al.|[2611.12001](http://arxiv.org/abs/2611.12001)|null|
 |**2026-11-09**|**Ensemble Covariance Propagation with Machine Learning Weather Prediction Models in a Realistic Data Assimilation System**|Simon Toedtli et.al.|[2611.11918](http://arxiv.org/abs/2611.11918)|null|
 |**2026-11-08**|**A Sequential Monte Carlo Method for Data Assimilation in Subsurface Flow Systems with Hierarchical Uncertainty**|Wenchao Teng et.al.|[2611.11681](http://arxiv.org/abs/2611.11681)|null|
@@ -10143,6 +10167,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields**|Daniele Della Pietra et.al.|[2611.18267](http://arxiv.org/abs/2611.18267)|null|
+|**2026-11-13**|**SCAR: Bridging Coarse Retrieval and Fine Localization through Candidate Reranking**|Shuhan Dong et.al.|[2611.18240](http://arxiv.org/abs/2611.18240)|null|
+|**2026-11-13**|**STAMP: Manufacturing-Informed Generative Design and Shape Optimization of Sheet Panels**|Jihoon Kim et.al.|[2611.18144](http://arxiv.org/abs/2611.18144)|null|
+|**2026-11-13**|**Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces**|Sina Mohammadi et.al.|[2611.18033](http://arxiv.org/abs/2611.18033)|null|
+|**2026-11-13**|**See and Detect: Image-Driven Open-Vocabulary Multi-View 3D Object Detection**|Yating Xu et.al.|[2611.17897](http://arxiv.org/abs/2611.17897)|null|
+|**2026-11-12**|**A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging**|Andrea Borghesi et.al.|[2611.17468](http://arxiv.org/abs/2611.17468)|null|
+|**2026-11-12**|**Spatial Foundry: A Multimodal Dataset for Spatial Intelligence**|Ethan Lin et.al.|[2611.17318](http://arxiv.org/abs/2611.17318)|null|
+|**2026-11-12**|**Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes**|Robert Fonod et.al.|[2611.17190](http://arxiv.org/abs/2611.17190)|null|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742](http://arxiv.org/abs/2611.16742)|null|
+|**2026-11-12**|**Sprint3D: Accelerating End-to-End 3D Asset Generation through Pipeline Optimization**|Sho Kuno et.al.|[2611.16701](http://arxiv.org/abs/2611.16701)|null|
 |**2026-11-10**|**Where do we Jam? - The Impact of Real and Virtual XR Spaces on Musical Creativity, Co-Presence, Affect, and Flow**|Ruben Schlagowski et.al.|[2611.14029](http://arxiv.org/abs/2611.14029)|null|
 |**2026-11-10**|**The BRIDGE dataset: paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&E staining**|Julia A. Mielcarz et.al.|[2611.13883](http://arxiv.org/abs/2611.13883)|null|
 |**2026-11-10**|**RaGCD: Reliability-Aware 2D-3D Multimodal Generalized Category Discovery**|Junyong Liu et.al.|[2611.13827](http://arxiv.org/abs/2611.13827)|null|
@@ -10499,6 +10533,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Sample-efficient prediction of high-entropy alloy strength through outcome-aware robust sequential learning**|Ahmed Shoyeb Raihan et.al.|[2611.18462](http://arxiv.org/abs/2611.18462)|null|
+|**2026-11-13**|**Callo: Serving Cache-Miss Requests with Speculative Decoding on Invalidated KV under Prefill-Decode Disaggregation**|Jianjun Ou et.al.|[2611.18459](http://arxiv.org/abs/2611.18459)|null|
+|**2026-11-13**|**Mesh-Free Weak-Form Regression for Learning Interaction Kernels from Particle Trajectories**|Daisuke Inoue et.al.|[2611.18455](http://arxiv.org/abs/2611.18455)|null|
+|**2026-11-13**|**Dynamic bigraphical Matérn--Whittle processes: learning dependence graphs among spatial-temporal fields**|Alokesh Manna et.al.|[2611.18454](http://arxiv.org/abs/2611.18454)|null|
+|**2026-11-13**|**Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles**|Wang Ma et.al.|[2611.18453](http://arxiv.org/abs/2611.18453)|null|
+|**2026-11-13**|**PACT: A Decoder-Confidence-Guided Two-Round Receiver for Joint Channel and Phase-Noise Estimation in Sub-THz OFDM**|Ruilin Wang et.al.|[2611.18450](http://arxiv.org/abs/2611.18450)|null|
+|**2026-11-13**|**Validating Graph Neural Network Feature Attribution Through Local Perturbations: A Study on CoMoFeNiCu Decomposition Enthalpy**|Miguel Tenorio et.al.|[2611.18430](http://arxiv.org/abs/2611.18430)|null|
+|**2026-11-13**|**The State Is Not the Bottleneck: A Paged-State Gated-DeltaNet Tile on a Tri-Mode Multicast Mesh, Bit-Exact from RTL to Silicon**|Cong Xu et.al.|[2611.18422](http://arxiv.org/abs/2611.18422)|null|
+|**2026-11-13**|**Graph diffusion transformer for interpretable generation and inverse design of disordered atomic structures**|Jiani Hu et.al.|[2611.18420](http://arxiv.org/abs/2611.18420)|null|
+|**2026-11-13**|**CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning**|Tao Hu et.al.|[2611.18417](http://arxiv.org/abs/2611.18417)|null|
 |**2026-11-10**|**Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals**|Min Woo Park et.al.|[2611.14066](http://arxiv.org/abs/2611.14066)|null|
 |**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Enhao Cui et.al.|[2611.14060](http://arxiv.org/abs/2611.14060)|null|
 |**2026-11-10**|**HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response Scenarios**|Rezwan Islam Salvi et.al.|[2611.14059](http://arxiv.org/abs/2611.14059)|null|
